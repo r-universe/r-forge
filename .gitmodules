@@ -3,3 +3,316 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "anacor"]
+	path = anacor
+	url = https://github.com/r-forge/psychor
+	shallow = true
+	subdir = pkg/anacor
+[submodule "car"]
+	path = car
+	url = https://github.com/r-forge/car
+	shallow = true
+	subdir = pkg/car
+[submodule "carData"]
+	path = carData
+	url = https://github.com/r-forge/car
+	shallow = true
+	subdir = pkg/carData
+[submodule "censReg"]
+	path = censReg
+	url = https://github.com/r-forge/sampleselection
+	shallow = true
+	subdir = pkg/censReg
+[submodule "cffdrs"]
+	path = cffdrs
+	url = https://github.com/r-forge/cffdrs
+	shallow = true
+	subdir = pkg/cffdrs
+[submodule "cops"]
+	path = cops
+	url = https://github.com/r-forge/stops
+	shallow = true
+	subdir = pkg/cops
+[submodule "cordillera"]
+	path = cordillera
+	url = https://github.com/r-forge/stops
+	shallow = true
+	subdir = pkg/cordillera
+[submodule "dsample"]
+	path = dsample
+	url = https://github.com/r-forge/wanglee
+	shallow = true
+	subdir = pkg/dsample
+[submodule "FinTS"]
+	path = FinTS
+	url = https://github.com/r-forge/fints
+	shallow = true
+	subdir = pkg/FinTS
+[submodule "fwi.fbp"]
+	path = fwi.fbp
+	url = https://github.com/r-forge/fwi-fbp
+	shallow = true
+	subdir = pkg/fwi.fbp
+[submodule "GeneralizedHyperbolic"]
+	path = GeneralizedHyperbolic
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/GeneralizedHyperbolic
+[submodule "Gifi"]
+	path = Gifi
+	url = https://github.com/r-forge/psychor
+	shallow = true
+	subdir = pkg/Gifi
+[submodule "gridGraphviz"]
+	path = gridGraphviz
+	url = https://github.com/r-forge/gridgraph
+	shallow = true
+	subdir = pkg
+[submodule "grImport"]
+	path = grImport
+	url = https://github.com/r-forge/grimport
+	shallow = true
+	subdir = pkg/grImport
+[submodule "grImport2"]
+	path = grImport2
+	url = https://github.com/r-forge/grimport
+	shallow = true
+	subdir = pkg/grImport2
+[submodule "HistogramTools"]
+	path = HistogramTools
+	url = https://github.com/r-forge/histogramtools
+	shallow = true
+	subdir = pkg
+[submodule "homals"]
+	path = homals
+	url = https://github.com/r-forge/psychor
+	shallow = true
+[submodule "inference"]
+	path = inference
+	url = https://github.com/r-forge/inference
+	shallow = true
+	subdir = pkg
+[submodule "isotone"]
+	path = isotone
+	url = https://github.com/r-forge/psychor
+	shallow = true
+	subdir = pkg/isotone
+[submodule "klausuR"]
+	path = klausuR
+	url = https://github.com/r-forge/klausur
+	shallow = true
+	subdir = pkg
+[submodule "maptools"]
+	path = maptools
+	url = https://github.com/r-forge/maptools
+	shallow = true
+	subdir = pkg
+[submodule "metamisc"]
+	path = metamisc
+	url = https://github.com/r-forge/metamisc
+	shallow = true
+	subdir = pkg
+[submodule "metRology"]
+	path = metRology
+	url = https://github.com/r-forge/metrology
+	shallow = true
+[submodule "mlogit"]
+	path = mlogit
+	url = https://github.com/r-forge/mlogit
+	shallow = true
+	subdir = pkg
+[submodule "mpmi"]
+	path = mpmi
+	url = https://github.com/r-forge/mpmi
+	shallow = true
+	subdir = pkg
+[submodule "patchDVI"]
+	path = patchDVI
+	url = https://github.com/r-forge/sweavesearch
+	shallow = true
+	subdir = pkg/patchDVI
+[submodule "plm"]
+	path = plm
+	url = https://github.com/r-forge/plm
+	shallow = true
+	subdir = pkg
+[submodule "polycor"]
+	path = polycor
+	url = https://github.com/r-forge/polycor
+	shallow = true
+	subdir = pkg
+[submodule "PST"]
+	path = PST
+	url = https://github.com/r-forge/pst
+	shallow = true
+	subdir = pkg
+[submodule "R2MLwiN"]
+	path = R2MLwiN
+	url = https://github.com/r-forge/r2mlwin
+	shallow = true
+	subdir = R2MLwiN
+[submodule "rgdal"]
+	path = rgdal
+	url = https://github.com/r-forge/rgdal
+	shallow = true
+	subdir = pkg
+[submodule "rgeos"]
+	path = rgeos
+	url = https://github.com/r-forge/rgeos
+	shallow = true
+	subdir = pkg
+[submodule "rgl"]
+	path = rgl
+	url = https://github.com/r-forge/rgl
+	shallow = true
+	subdir = pkg/rgl
+[submodule "rgrass7"]
+	path = rgrass7
+	url = https://github.com/r-forge/spgrass
+	shallow = true
+	subdir = pkg/rgrass7
+[submodule "rJython"]
+	path = rJython
+	url = https://github.com/r-forge/rjython
+	shallow = true
+	subdir = pkg
+[submodule "rNOMADS"]
+	path = rNOMADS
+	url = https://github.com/r-forge/rnomads
+	shallow = true
+	subdir = pkg/rNOMADS
+[submodule "ROI"]
+	path = ROI
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI
+[submodule "ROI.plugin.alabama"]
+	path = ROI.plugin.alabama
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.alabama
+[submodule "ROI.plugin.deoptim"]
+	path = ROI.plugin.deoptim
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.deoptim
+[submodule "ROI.plugin.ecos"]
+	path = ROI.plugin.ecos
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.ecos
+[submodule "ROI.plugin.glpk"]
+	path = ROI.plugin.glpk
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.glpk
+[submodule "ROI.plugin.ipop"]
+	path = ROI.plugin.ipop
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.ipop
+[submodule "ROI.plugin.lpsolve"]
+	path = ROI.plugin.lpsolve
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.lpsolve
+[submodule "ROI.plugin.msbinlp"]
+	path = ROI.plugin.msbinlp
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.msbinlp
+[submodule "ROI.plugin.neos"]
+	path = ROI.plugin.neos
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.neos
+[submodule "ROI.plugin.nloptr"]
+	path = ROI.plugin.nloptr
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.nloptr
+[submodule "ROI.plugin.optimx"]
+	path = ROI.plugin.optimx
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.optimx
+[submodule "ROI.plugin.osqp"]
+	path = ROI.plugin.osqp
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.osqp
+[submodule "ROI.plugin.qpoases"]
+	path = ROI.plugin.qpoases
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.qpoases
+[submodule "ROI.plugin.quadprog"]
+	path = ROI.plugin.quadprog
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.quadprog
+[submodule "ROI.plugin.scs"]
+	path = ROI.plugin.scs
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.scs
+[submodule "ROI.plugin.symphony"]
+	path = ROI.plugin.symphony
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.symphony
+[submodule "Rwave"]
+	path = Rwave
+	url = https://github.com/r-forge/rwave
+	shallow = true
+	subdir = pkg
+[submodule "scan"]
+	path = scan
+	url = https://github.com/r-forge/scan
+	shallow = true
+	subdir = pkg
+[submodule "skellam"]
+	path = skellam
+	url = https://github.com/r-forge/healthqueues
+	shallow = true
+	subdir = pkg/skellam
+[submodule "SkewHyperbolic"]
+	path = SkewHyperbolic
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/SkewHyperbolic
+[submodule "Sleuth2"]
+	path = Sleuth2
+	url = https://github.com/r-forge/sleuth2
+	shallow = true
+	subdir = pkg/Sleuth2
+[submodule "Sleuth3"]
+	path = Sleuth3
+	url = https://github.com/r-forge/sleuth2
+	shallow = true
+	subdir = pkg/Sleuth3
+[submodule "sse"]
+	path = sse
+	url = https://github.com/r-forge/power
+	shallow = true
+	subdir = pkg/sse
+[submodule "tables"]
+	path = tables
+	url = https://github.com/r-forge/tables
+	shallow = true
+	subdir = pkg/tables
+[submodule "tm.plugin.alceste"]
+	path = tm.plugin.alceste
+	url = https://github.com/r-forge/r-temis
+	shallow = true
+	subdir = pkg/tm.plugin.alceste
+[submodule "tm.plugin.europresse"]
+	path = tm.plugin.europresse
+	url = https://github.com/r-forge/r-temis
+	shallow = true
+	subdir = pkg/tm.plugin.europresse
+[submodule "WRS2"]
+	path = WRS2
+	url = https://github.com/r-forge/psychor
+	shallow = true
+	subdir = pkg/WRS2
