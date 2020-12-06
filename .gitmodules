@@ -8,6 +8,11 @@
 	url = https://github.com/r-forge/psychor
 	shallow = true
 	subdir = pkg/anacor
+[submodule "aspect"]
+	path = aspect
+	url = https://github.com/r-forge/psychor
+	shallow = true
+	subdir = pkg/aspect
 [submodule "car"]
 	path = car
 	url = https://github.com/r-forge/car
@@ -43,6 +48,11 @@
 	url = https://github.com/r-forge/wanglee
 	shallow = true
 	subdir = pkg/dsample
+[submodule "expm"]
+	path = expm
+	url = https://github.com/r-forge/expm
+	shallow = true
+	subdir = pkg
 [submodule "FinTS"]
 	path = FinTS
 	url = https://github.com/r-forge/fints
@@ -151,6 +161,11 @@
 	url = https://github.com/r-forge/r2mlwin
 	shallow = true
 	subdir = R2MLwiN
+[submodule "Rcplex"]
+	path = Rcplex
+	url = https://github.com/r-forge/rcplex
+	shallow = true
+	subdir = pkg
 [submodule "rgdal"]
 	path = rgdal
 	url = https://github.com/r-forge/rgdal
@@ -166,6 +181,11 @@
 	url = https://github.com/r-forge/rgl
 	shallow = true
 	subdir = pkg/rgl
+[submodule "Rglpk"]
+	path = Rglpk
+	url = https://github.com/r-forge/rglp
+	shallow = true
+	subdir = pkg/Rglpk
 [submodule "rgrass7"]
 	path = rgrass7
 	url = https://github.com/r-forge/spgrass
@@ -186,11 +206,21 @@
 	url = https://github.com/r-forge/roi
 	shallow = true
 	subdir = pkg/ROI
+[submodule "ROI.models.miplib"]
+	path = ROI.models.miplib
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.models.miplib
 [submodule "ROI.plugin.alabama"]
 	path = ROI.plugin.alabama
 	url = https://github.com/r-forge/roi
 	shallow = true
 	subdir = pkg/ROI.plugin.alabama
+[submodule "ROI.plugin.cplex"]
+	path = ROI.plugin.cplex
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.cplex
 [submodule "ROI.plugin.deoptim"]
 	path = ROI.plugin.deoptim
 	url = https://github.com/r-forge/roi
@@ -261,6 +291,11 @@
 	url = https://github.com/r-forge/roi
 	shallow = true
 	subdir = pkg/ROI.plugin.symphony
+[submodule "Rsymphony"]
+	path = Rsymphony
+	url = https://github.com/r-forge/rsymphony
+	shallow = true
+	subdir = pkg
 [submodule "Rwave"]
 	path = Rwave
 	url = https://github.com/r-forge/rwave
@@ -311,6 +346,11 @@
 	url = https://github.com/r-forge/r-temis
 	shallow = true
 	subdir = pkg/tm.plugin.europresse
+[submodule "truncreg"]
+	path = truncreg
+	url = https://github.com/r-forge/truncreg
+	shallow = true
+	subdir = pkg
 [submodule "WRS2"]
 	path = WRS2
 	url = https://github.com/r-forge/psychor
