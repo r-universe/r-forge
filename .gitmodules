@@ -186,11 +186,6 @@
 	url = https://github.com/r-forge/rglp
 	shallow = true
 	subdir = pkg/Rglpk
-[submodule "rgrass7"]
-	path = rgrass7
-	url = https://github.com/r-forge/spgrass
-	shallow = true
-	subdir = pkg/rgrass7
 [submodule "rJython"]
 	path = rJython
 	url = https://github.com/r-forge/rjython
