@@ -79,8 +79,9 @@
 	subdir = pkg/cffdrs
 [submodule "CHNOSZ"]
 	path = CHNOSZ
-	url = https://github.com/r-forge/www.chnosz.net
+	url = https://github.com/r-forge/chnosz
 	shallow = true
+	subdir = pkg/CHNOSZ
 [submodule "ClassComparison"]
 	path = ClassComparison
 	url = https://github.com/r-forge/oompa
@@ -107,7 +108,7 @@
 	subdir = pkg/coin
 [submodule "colorspace"]
 	path = colorspace
-	url = https://github.com/r-forge/colorspace.r-forge.r-project.org
+	url = https://github.com/r-forge/colorspacecontact.html
 	shallow = true
 [submodule "CommonJavaJars"]
 	path = CommonJavaJars
@@ -145,7 +146,7 @@
 	shallow = true
 [submodule "dcGOR"]
 	path = dcGOR
-	url = https://github.com/r-forge/supfam.org
+	url = https://github.com/r-forge/dcgor
 	shallow = true
 [submodule "depmixS4"]
 	path = depmixS4
@@ -218,7 +219,7 @@
 	subdir = pkg/dse
 [submodule "dtw"]
 	path = dtw
-	url = https://github.com/r-forge/dynamictimewarping.github.io
+	url = https://github.com/r-forge/dtw
 	shallow = true
 [submodule "Eagle"]
 	path = Eagle
@@ -284,10 +285,6 @@
 	url = https://github.com/r-forge/psychor
 	shallow = true
 	subdir = pkg/Gifi
-[submodule "gMCP"]
-	path = gMCP
-	url = https://github.com/r-forge/github.com
-	shallow = true
 [submodule "GNE"]
 	path = GNE
 	url = https://github.com/r-forge/optimizer
@@ -343,10 +340,6 @@
 	url = https://github.com/r-forge/klausur
 	shallow = true
 	subdir = pkg
-[submodule "lattice"]
-	path = lattice
-	url = https://github.com/r-forge/github.com
-	shallow = true
 [submodule "latticeExtra"]
 	path = latticeExtra
 	url = https://github.com/r-forge/latticeextra
@@ -378,8 +371,9 @@
 	subdir = pkg
 [submodule "Matrix"]
 	path = Matrix
-	url = https://github.com/r-forge/r-forge.r-project.org
+	url = https://github.com/r-forge/matrix
 	shallow = true
+	subdir = pkg/Matrix
 [submodule "MatrixModels"]
 	path = MatrixModels
 	url = https://github.com/r-forge/matrix
@@ -429,8 +423,9 @@
 	shallow = true
 [submodule "modelfree"]
 	path = modelfree
-	url = https://github.com/r-forge/www.modelfree.manchester.ac.uk
+	url = https://github.com/r-forge/modelfree
 	shallow = true
+	subdir = pkg
 [submodule "modEvA"]
 	path = modEvA
 	url = https://github.com/r-forge/modeva
@@ -448,8 +443,9 @@
 	subdir = pkg
 [submodule "msap"]
 	path = msap
-	url = https://github.com/r-forge/r-forge.r-project.org
+	url = https://github.com/r-forge/msap
 	shallow = true
+	subdir = pkg/msap
 [submodule "multcomp"]
 	path = multcomp
 	url = https://github.com/r-forge/multcomp
@@ -612,8 +608,9 @@
 	subdir = pkg
 [submodule "rgeos"]
 	path = rgeos
-	url = https://github.com/r-forge/github.com
+	url = https://github.com/r-forge/rgeos
 	shallow = true
+	subdir = pkg
 [submodule "rgl"]
 	path = rgl
 	url = https://github.com/r-forge/rgl
@@ -806,7 +803,7 @@
 	subdir = pkg
 [submodule "sandwich"]
 	path = sandwich
-	url = https://github.com/r-forge/sandwich.r-forge.r-project.org
+	url = https://github.com/r-forge/sandwichcontact.html
 	shallow = true
 [submodule "SBSA"]
 	path = SBSA
@@ -820,7 +817,7 @@
 	subdir = pkg
 [submodule "seqinr"]
 	path = seqinr
-	url = https://github.com/r-forge/lists.r-forge.r-project.org
+	url = https://github.com/r-forge/listscgi-bin
 	shallow = true
 [submodule "setRNG"]
 	path = setRNG
@@ -863,8 +860,9 @@
 	subdir = pkg
 [submodule "sparsesvd"]
 	path = sparsesvd
-	url = https://github.com/r-forge/tedlab.mit.edu
+	url = https://github.com/r-forge/wordspace
 	shallow = true
+	subdir = pkg/sparsesvd
 [submodule "SpatialExtremes"]
 	path = SpatialExtremes
 	url = https://github.com/r-forge/spatialextremes
