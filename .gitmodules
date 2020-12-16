@@ -108,8 +108,9 @@
 	subdir = pkg/coin
 [submodule "colorspace"]
 	path = colorspace
-	url = https://github.com/r-forge/colorspacecontact.html
+	url = https://github.com/r-forge/colorspace
 	shallow = true
+	subdir = pkg/colorspace
 [submodule "CommonJavaJars"]
 	path = CommonJavaJars
 	url = https://github.com/r-forge/gsrmtp
@@ -320,7 +321,7 @@
 	shallow = true
 [submodule "inference"]
 	path = inference
-	url = https://github.com/r-forge/listsmailman
+	url = https://github.com/r-forge/lists
 	shallow = true
 [submodule "integIRTy"]
 	path = integIRTy
@@ -357,8 +358,9 @@
 	subdir = pkg
 [submodule "loa"]
 	path = loa
-	url = https://github.com/r-forge/loaloa.intro.html
+	url = https://github.com/r-forge/loa
 	shallow = true
+	subdir = pkg/loa
 [submodule "lshorth"]
 	path = lshorth
 	url = https://github.com/r-forge/lshorth
@@ -501,7 +503,7 @@
 	subdir = pkg
 [submodule "partykit"]
 	path = partykit
-	url = https://github.com/r-forge/partykitpartykit
+	url = https://github.com/r-forge/partykit
 	shallow = true
 [submodule "patchDVI"]
 	path = patchDVI
@@ -803,8 +805,9 @@
 	subdir = pkg
 [submodule "sandwich"]
 	path = sandwich
-	url = https://github.com/r-forge/sandwichcontact.html
+	url = https://github.com/r-forge/sandwich
 	shallow = true
+	subdir = pkg
 [submodule "SBSA"]
 	path = SBSA
 	url = https://github.com/r-forge/sbsa
@@ -817,7 +820,7 @@
 	subdir = pkg
 [submodule "seqinr"]
 	path = seqinr
-	url = https://github.com/r-forge/listscgi-bin
+	url = https://github.com/r-forge/lists
 	shallow = true
 [submodule "setRNG"]
 	path = setRNG
@@ -885,7 +888,7 @@
 	subdir = pkg
 [submodule "survey"]
 	path = survey
-	url = https://github.com/r-forge/r-surveysurvey
+	url = https://github.com/r-forge/r-survey
 	shallow = true
 [submodule "tables"]
 	path = tables
