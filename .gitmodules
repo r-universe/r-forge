@@ -145,10 +145,6 @@
 	path = CrossValidate
 	url = https://github.com/r-forge/oompa
 	shallow = true
-[submodule "dcGOR"]
-	path = dcGOR
-	url = https://github.com/r-forge/dcgor
-	shallow = true
 [submodule "depmixS4"]
 	path = depmixS4
 	url = https://github.com/r-forge/depmix
@@ -204,10 +200,6 @@
 	url = https://github.com/r-forge/distr
 	shallow = true
 	subdir = pkg/distrTEst
-[submodule "dnet"]
-	path = dnet
-	url = https://github.com/r-forge/dnet
-	shallow = true
 [submodule "dsample"]
 	path = dsample
 	url = https://github.com/r-forge/wanglee
