@@ -321,8 +321,9 @@
 	shallow = true
 [submodule "inference"]
 	path = inference
-	url = https://github.com/r-forge/lists
+	url = https://github.com/r-forge/inference
 	shallow = true
+	subdir = pkg
 [submodule "integIRTy"]
 	path = integIRTy
 	url = https://github.com/r-forge/oompa
@@ -820,7 +821,7 @@
 	subdir = pkg
 [submodule "seqinr"]
 	path = seqinr
-	url = https://github.com/r-forge/lists
+	url = https://github.com/r-forge/seqinr
 	shallow = true
 [submodule "setRNG"]
 	path = setRNG
