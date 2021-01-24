@@ -527,11 +527,6 @@
 	url = https://github.com/r-forge/pkpd
 	shallow = true
 	subdir = pkg/PKPDmodels
-[submodule "plm"]
-	path = plm
-	url = https://github.com/r-forge/plm
-	shallow = true
-	subdir = pkg
 [submodule "plotKML"]
 	path = plotKML
 	url = https://github.com/r-forge/plotkml
