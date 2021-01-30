@@ -1061,3 +1061,11 @@
 	url = https://github.com/r-forge/zoo
 	shallow = true
 	subdir = pkg/zoo
+[submodule "chromote"]
+	path = chromote
+	url = https://github.com/rstudio/chromote
+	shallow = true
+[submodule "webshot2"]
+	path = webshot2
+	url = https://github.com/rstudio/webshot2
+	shallow = true

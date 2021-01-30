@@ -1,0 +1,14 @@
+[
+  {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote",
+    "via": ["rgl", "webshot2"],
+    "from": "rgl"
+  },
+  {
+    "package": "webshot2",
+    "url": "https://github.com/rstudio/webshot2",
+    "via": ["rgl"],
+    "from": "rgl"
+  }
+]
