@@ -1021,6 +1021,11 @@
 	path = Umpire
 	url = https://github.com/r-forge/oompa
 	shallow = true
+[submodule "urbin"]
+	path = urbin
+	url = https://github.com/r-forge/urbin
+	shallow = true
+	subdir = pkg
 [submodule "variables"]
 	path = variables
 	url = https://github.com/r-forge/ctm
