@@ -801,11 +801,6 @@
 	url = https://github.com/r-forge/sbsa
 	shallow = true
 	subdir = pkg
-[submodule "scan"]
-	path = scan
-	url = https://github.com/r-forge/scan
-	shallow = true
-	subdir = pkg
 [submodule "seqinr"]
 	path = seqinr
 	url = https://github.com/r-forge/seqinr
