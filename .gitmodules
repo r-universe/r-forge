@@ -1056,6 +1056,16 @@
 	url = https://github.com/r-forge/zoo
 	shallow = true
 	subdir = pkg/zoo
+[submodule "lpsymphony"]
+	path = lpsymphony
+	url = https://github.com/r-forge/rsymphony
+	shallow = true
+	subdir = pkg
+[submodule "supraHex"]
+	path = supraHex
+	url = https://github.com/r-forge/suprahex
+	shallow = true
+	subdir = pkg
 [submodule "chromote"]
 	path = chromote
 	url = https://github.com/rstudio/chromote
