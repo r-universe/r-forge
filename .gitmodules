@@ -601,11 +601,6 @@
 	url = https://github.com/r-forge/rgeos
 	shallow = true
 	subdir = pkg
-[submodule "rgl"]
-	path = rgl
-	url = https://github.com/r-forge/rgl
-	shallow = true
-	subdir = pkg/rgl
 [submodule "Rglpk"]
 	path = Rglpk
 	url = https://github.com/r-forge/rglp
