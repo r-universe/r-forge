@@ -224,11 +224,6 @@
 	url = https://github.com/r-forge/easyabc
 	shallow = true
 	subdir = pkg
-[submodule "EvalEst"]
-	path = EvalEst
-	url = https://github.com/r-forge/tsanalysis
-	shallow = true
-	subdir = pkg/EvalEst
 [submodule "expm"]
 	path = expm
 	url = https://github.com/r-forge/expm
@@ -963,11 +958,6 @@
 	url = https://github.com/r-forge/tsdbi
 	shallow = true
 	subdir = pkg/TSdbi
-[submodule "tsfa"]
-	path = tsfa
-	url = https://github.com/r-forge/tsanalysis
-	shallow = true
-	subdir = pkg/tsfa
 [submodule "TSfame"]
 	path = TSfame
 	url = https://github.com/r-forge/tsdbi
