@@ -298,10 +298,6 @@
 	url = https://github.com/r-forge/grimport
 	shallow = true
 	subdir = pkg/grImport2
-[submodule "GSIF"]
-	path = GSIF
-	url = https://github.com/r-forge/gsif
-	shallow = true
 [submodule "HistogramTools"]
 	path = HistogramTools
 	url = https://github.com/r-forge/histogramtools
