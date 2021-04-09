@@ -1053,11 +1053,3 @@
 	url = https://github.com/r-forge/suprahex
 	shallow = true
 	subdir = pkg
-[submodule "chromote"]
-	path = chromote
-	url = https://github.com/rstudio/chromote
-	shallow = true
-[submodule "webshot2"]
-	path = webshot2
-	url = https://github.com/rstudio/webshot2
-	shallow = true
