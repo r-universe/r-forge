@@ -625,12 +625,6 @@
 	shallow = true
 	subdir = pkg/PKPDmodels
 	registered = true
-[submodule "plotKML"]
-	path = plotKML
-	url = https://github.com/r-forge/plotkml
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "Polychrome"]
 	path = Polychrome
 	url = https://github.com/r-forge/oompa
