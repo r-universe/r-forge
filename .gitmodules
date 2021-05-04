@@ -39,12 +39,6 @@
 	shallow = true
 	subdir = pkg/Bessel
 	registered = true
-[submodule "bfast"]
-	path = bfast
-	url = https://github.com/r-forge/bfast
-	shallow = true
-	subdir = pkg/bfast
-	registered = true
 [submodule "BimodalIndex"]
 	path = BimodalIndex
 	url = https://github.com/r-forge/oompa
