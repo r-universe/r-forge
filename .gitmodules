@@ -168,12 +168,6 @@
 	url = https://github.com/r-forge/oompa
 	shallow = true
 	registered = true
-[submodule "depmixS4"]
-	path = depmixS4
-	url = https://github.com/r-forge/depmix
-	shallow = true
-	subdir = pkg/depmixS4
-	registered = true
 [submodule "deSolve"]
 	path = deSolve
 	url = https://github.com/r-forge/desolve
