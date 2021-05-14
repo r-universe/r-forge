@@ -28,8 +28,7 @@
     "oncran": true
   },
   {
-    "package": "BiplotGUI",
-    "oncran": true
+    "package": "BiplotGUI"
   },
   {
     "package": "car",
@@ -844,11 +843,9 @@
     "oncran": true
   },
   {
-    "package": "lpsymphony",
-    "oncran": true
+    "package": "lpsymphony"
   },
   {
-    "package": "supraHex",
-    "oncran": true
+    "package": "supraHex"
   }
 ]
