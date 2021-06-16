@@ -822,12 +822,6 @@
 	shallow = true
 	subdir = pkg/ROI.plugin.ipop
 	registered = true
-[submodule "ROI.plugin.lpsolve"]
-	path = ROI.plugin.lpsolve
-	url = https://github.com/r-forge/roi
-	shallow = true
-	subdir = pkg/ROI.plugin.lpsolve
-	registered = true
 [submodule "ROI.plugin.msbinlp"]
 	path = ROI.plugin.msbinlp
 	url = https://github.com/r-forge/roi

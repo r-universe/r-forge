@@ -555,10 +555,6 @@
     "oncran": true
   },
   {
-    "package": "ROI.plugin.lpsolve",
-    "oncran": true
-  },
-  {
     "package": "ROI.plugin.msbinlp",
     "oncran": true
   },
