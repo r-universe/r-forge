@@ -172,6 +172,7 @@ jobs:
         if: runner.os == 'windows'
         with:
           sourcepkg: ${{ needs.source.outputs.sourcepkg }}
+          java: ${{ needs.source.outputs.java }}
       - id: postcheck
         name: "Package install log"
         uses: r-universe-org/post-check@master
