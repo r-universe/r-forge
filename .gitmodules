@@ -611,7 +611,6 @@
 	path = PKPDmodels
 	url = https://github.com/r-forge/pkpd
 	shallow = true
-	subdir = pkg/PKPDmodels
 	registered = true
 [submodule "Polychrome"]
 	path = Polychrome
