@@ -739,6 +739,10 @@
     "oncran": true
   },
   {
+    "package": "tramME",
+    "oncran": true
+  },
+  {
     "package": "tramnet",
     "oncran": true
   },

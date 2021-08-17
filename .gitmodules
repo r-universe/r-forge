@@ -1094,6 +1094,12 @@
 	shallow = true
 	subdir = pkg/tram
 	registered = true
+[submodule "tramME"]
+	path = tramME
+	url = https://github.com/r-forge/ctm
+	shallow = true
+	subdir = pkg/tramME
+	registered = true
 [submodule "tramnet"]
 	path = tramnet
 	url = https://github.com/r-forge/ctm
