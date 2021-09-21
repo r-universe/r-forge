@@ -107,6 +107,10 @@
     "oncran": true
   },
   {
+    "package": "cotram",
+    "oncran": true
+  },
+  {
     "package": "CrossValidate",
     "oncran": true
   },
