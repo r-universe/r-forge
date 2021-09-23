@@ -930,12 +930,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "scan"]
-	path = scan
-	url = https://github.com/r-forge/scan
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "seqinr"]
 	path = seqinr
 	url = https://github.com/r-forge/seqinr

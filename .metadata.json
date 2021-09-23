@@ -627,10 +627,6 @@
     "oncran": true
   },
   {
-    "package": "scan",
-    "oncran": true
-  },
-  {
     "package": "seqinr",
     "oncran": true
   },
