@@ -24,10 +24,6 @@
     "oncran": true
   },
   {
-    "package": "BimodalIndex",
-    "oncran": true
-  },
-  {
     "package": "BiplotGUI"
   },
   {
@@ -64,10 +60,6 @@
   },
   {
     "package": "ClassDiscovery",
-    "oncran": true
-  },
-  {
-    "package": "CloneSeeker",
     "oncran": true
   },
   {
@@ -108,10 +100,6 @@
   },
   {
     "package": "cotram",
-    "oncran": true
-  },
-  {
-    "package": "CrossValidate",
     "oncran": true
   },
   {
@@ -163,10 +151,6 @@
     "oncran": true
   },
   {
-    "package": "dtw",
-    "oncran": true
-  },
-  {
     "package": "Eagle",
     "oncran": true
   },
@@ -200,10 +184,6 @@
   },
   {
     "package": "fwi.fbp",
-    "oncran": true
-  },
-  {
-    "package": "GenAlgo",
     "oncran": true
   },
   {
@@ -243,15 +223,7 @@
     "oncran": true
   },
   {
-    "package": "integIRTy",
-    "oncran": true
-  },
-  {
     "package": "isotone",
-    "oncran": true
-  },
-  {
-    "package": "JM",
     "oncran": true
   },
   {
@@ -291,19 +263,11 @@
     "oncran": true
   },
   {
-    "package": "Mercator",
-    "oncran": true
-  },
-  {
     "package": "metamisc",
     "oncran": true
   },
   {
     "package": "meteo",
-    "oncran": true
-  },
-  {
-    "package": "metRology",
     "oncran": true
   },
   {
@@ -320,10 +284,6 @@
   },
   {
     "package": "mlt.docreg",
-    "oncran": true
-  },
-  {
-    "package": "Modeler",
     "oncran": true
   },
   {
@@ -363,14 +323,6 @@
     "oncran": true
   },
   {
-    "package": "NameNeedle",
-    "oncran": true
-  },
-  {
-    "package": "NewmanOmics",
-    "oncran": true
-  },
-  {
     "package": "numDeriv",
     "oncran": true
   },
@@ -391,19 +343,11 @@
     "oncran": true
   },
   {
-    "package": "partykit",
-    "oncran": true
-  },
-  {
     "package": "patchDVI",
     "oncran": true
   },
   {
     "package": "pcalg",
-    "oncran": true
-  },
-  {
-    "package": "PCDimension",
     "oncran": true
   },
   {
@@ -460,10 +404,6 @@
   },
   {
     "package": "Rcplex",
-    "oncran": true
-  },
-  {
-    "package": "RCytoGPS",
     "oncran": true
   },
   {
@@ -627,15 +567,7 @@
     "oncran": true
   },
   {
-    "package": "seqinr",
-    "oncran": true
-  },
-  {
     "package": "setRNG",
-    "oncran": true
-  },
-  {
-    "package": "SIBERG",
     "oncran": true
   },
   {
@@ -683,10 +615,6 @@
     "oncran": true
   },
   {
-    "package": "survey",
-    "oncran": true
-  },
-  {
     "package": "tables",
     "oncran": true
   },
@@ -708,10 +636,6 @@
   },
   {
     "package": "tframePlus",
-    "oncran": true
-  },
-  {
-    "package": "Thresher",
     "oncran": true
   },
   {
@@ -800,10 +724,6 @@
   },
   {
     "package": "TSSQLite",
-    "oncran": true
-  },
-  {
-    "package": "Umpire",
     "oncran": true
   },
   {
