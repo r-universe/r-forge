@@ -1243,6 +1243,12 @@
 	shallow = true
 	subdir = pkg/zoo
 	registered = true
+[submodule "lpsymphony"]
+	path = lpsymphony
+	url = https://github.com/r-forge/rsymphony
+	shallow = true
+	subdir = pkg
+	registered = true
 [submodule "supraHex"]
 	path = supraHex
 	url = https://github.com/r-forge/suprahex
