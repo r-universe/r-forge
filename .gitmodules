@@ -39,11 +39,6 @@
 	shallow = true
 	subdir = pkg/Bessel
 	registered = true
-[submodule "BimodalIndex"]
-	path = BimodalIndex
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	registered = true
 [submodule "BiplotGUI"]
 	path = BiplotGUI
 	url = https://github.com/r-forge/biplotgui
@@ -104,11 +99,6 @@
 	shallow = true
 	subdir = pkg/ClassDiscovery
 	registered = true
-[submodule "CloneSeeker"]
-	path = CloneSeeker
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	registered = true
 [submodule "cobs"]
 	path = cobs
 	url = https://github.com/r-forge/curves-etc
@@ -168,11 +158,6 @@
 	url = https://github.com/r-forge/ctm
 	shallow = true
 	subdir = pkg/cotram
-	registered = true
-[submodule "CrossValidate"]
-	path = CrossValidate
-	url = https://github.com/r-forge/oompa
-	shallow = true
 	registered = true
 [submodule "deSolve"]
 	path = deSolve
@@ -246,11 +231,6 @@
 	shallow = true
 	subdir = pkg/dse
 	registered = true
-[submodule "dtw"]
-	path = dtw
-	url = https://github.com/r-forge/dtw
-	shallow = true
-	registered = true
 [submodule "Eagle"]
 	path = Eagle
 	url = https://github.com/r-forge/eagle
@@ -304,11 +284,6 @@
 	url = https://github.com/r-forge/fwi-fbp
 	shallow = true
 	subdir = pkg/fwi.fbp
-	registered = true
-[submodule "GenAlgo"]
-	path = GenAlgo
-	url = https://github.com/r-forge/oompa
-	shallow = true
 	registered = true
 [submodule "GeneralizedHyperbolic"]
 	path = GeneralizedHyperbolic
@@ -364,21 +339,11 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "integIRTy"]
-	path = integIRTy
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	registered = true
 [submodule "isotone"]
 	path = isotone
 	url = https://github.com/r-forge/psychor
 	shallow = true
 	subdir = pkg/isotone
-	registered = true
-[submodule "JM"]
-	path = JM
-	url = https://github.com/r-forge/jmr
-	shallow = true
 	registered = true
 [submodule "klausuR"]
 	path = klausuR
@@ -434,11 +399,6 @@
 	shallow = true
 	subdir = pkg/MatrixModels
 	registered = true
-[submodule "Mercator"]
-	path = Mercator
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	registered = true
 [submodule "metamisc"]
 	path = metamisc
 	url = https://github.com/r-forge/metamisc
@@ -450,11 +410,6 @@
 	url = https://github.com/r-forge/meteo
 	shallow = true
 	subdir = pkg
-	registered = true
-[submodule "metRology"]
-	path = metRology
-	url = https://github.com/r-forge/metrology
-	shallow = true
 	registered = true
 [submodule "minqa"]
 	path = minqa
@@ -479,11 +434,6 @@
 	url = https://github.com/r-forge/ctm
 	shallow = true
 	subdir = pkg/mlt.docreg
-	registered = true
-[submodule "Modeler"]
-	path = Modeler
-	url = https://github.com/r-forge/oompa
-	shallow = true
 	registered = true
 [submodule "modelfree"]
 	path = modelfree
@@ -539,16 +489,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "NameNeedle"]
-	path = NameNeedle
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	registered = true
-[submodule "NewmanOmics"]
-	path = NewmanOmics
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	registered = true
 [submodule "numDeriv"]
 	path = numDeriv
 	url = https://github.com/r-forge/optimizer
@@ -579,11 +519,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "partykit"]
-	path = partykit
-	url = https://github.com/r-forge/partykit
-	shallow = true
-	registered = true
 [submodule "patchDVI"]
 	path = patchDVI
 	url = https://github.com/r-forge/sweavesearch
@@ -595,11 +530,6 @@
 	url = https://github.com/r-forge/pcalg
 	shallow = true
 	subdir = pkg
-	registered = true
-[submodule "PCDimension"]
-	path = PCDimension
-	url = https://github.com/r-forge/oompa
-	shallow = true
 	registered = true
 [submodule "pedigreemm"]
 	path = pedigreemm
@@ -684,11 +614,6 @@
 	url = https://github.com/r-forge/rcplex
 	shallow = true
 	subdir = pkg
-	registered = true
-[submodule "RCytoGPS"]
-	path = RCytoGPS
-	url = https://github.com/r-forge/oompa
-	shallow = true
 	registered = true
 [submodule "rgdal"]
 	path = rgdal
@@ -930,21 +855,11 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "seqinr"]
-	path = seqinr
-	url = https://github.com/r-forge/seqinr
-	shallow = true
-	registered = true
 [submodule "setRNG"]
 	path = setRNG
 	url = https://github.com/r-forge/distr
 	shallow = true
 	subdir = pkg/setRNG
-	registered = true
-[submodule "SIBERG"]
-	path = SIBERG
-	url = https://github.com/r-forge/oompa
-	shallow = true
 	registered = true
 [submodule "sirad"]
 	path = sirad
@@ -1012,11 +927,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "survey"]
-	path = survey
-	url = https://github.com/r-forge/r-survey
-	shallow = true
-	registered = true
 [submodule "tables"]
 	path = tables
 	url = https://github.com/r-forge/tables
@@ -1052,11 +962,6 @@
 	url = https://github.com/r-forge/tsanalysis
 	shallow = true
 	subdir = pkg/tframePlus
-	registered = true
-[submodule "Thresher"]
-	path = Thresher
-	url = https://github.com/r-forge/oompa
-	shallow = true
 	registered = true
 [submodule "TIMP"]
 	path = TIMP
@@ -1190,11 +1095,6 @@
 	shallow = true
 	subdir = pkg/TSSQLite
 	registered = true
-[submodule "Umpire"]
-	path = Umpire
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	registered = true
 [submodule "urbin"]
 	path = urbin
 	url = https://github.com/r-forge/urbin
@@ -1242,11 +1142,6 @@
 	url = https://github.com/r-forge/zoo
 	shallow = true
 	subdir = pkg/zoo
-	registered = true
-[submodule "lpsymphony"]
-	path = lpsymphony
-	url = https://github.com/r-forge/rsymphony
-	shallow = true
 	registered = true
 [submodule "supraHex"]
 	path = supraHex
