@@ -1247,7 +1247,6 @@
 	path = lpsymphony
 	url = https://github.com/r-forge/rsymphony
 	shallow = true
-	subdir = pkg
 	registered = true
 [submodule "supraHex"]
 	path = supraHex
