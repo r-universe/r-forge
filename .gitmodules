@@ -153,6 +153,12 @@
 	shallow = true
 	subdir = pkg/corpora
 	registered = true
+[submodule "cotram"]
+	path = cotram
+	url = https://github.com/r-forge/ctm
+	shallow = true
+	subdir = pkg/cotram
+	registered = true
 [submodule "deSolve"]
 	path = deSolve
 	url = https://github.com/r-forge/desolve

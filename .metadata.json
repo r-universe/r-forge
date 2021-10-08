@@ -99,6 +99,10 @@
     "oncran": true
   },
   {
+    "package": "cotram",
+    "oncran": true
+  },
+  {
     "package": "deSolve",
     "oncran": true
   },
