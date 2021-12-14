@@ -219,6 +219,12 @@
 	shallow = true
 	subdir = pkg/distrTEst
 	registered = true
+[submodule "DPQ"]
+	path = DPQ
+	url = https://github.com/r-forge/specfun
+	shallow = true
+	subdir = pkg/DPQ
+	registered = true
 [submodule "dsample"]
 	path = dsample
 	url = https://github.com/r-forge/wanglee
