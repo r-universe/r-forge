@@ -43,10 +43,6 @@
     "oncran": true
   },
   {
-    "package": "censReg",
-    "oncran": true
-  },
-  {
     "package": "cffdrs",
     "oncran": true
   },
@@ -72,10 +68,6 @@
   },
   {
     "package": "colorspace",
-    "oncran": true
-  },
-  {
-    "package": "CommonJavaJars",
     "oncran": true
   },
   {
