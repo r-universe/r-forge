@@ -69,6 +69,12 @@
 	shallow = true
 	subdir = pkg
 	registered = true
+[submodule "censReg"]
+	path = censReg
+	url = https://github.com/r-forge/sampleselection
+	shallow = true
+	subdir = pkg/censReg
+	registered = true
 [submodule "cffdrs"]
 	path = cffdrs
 	url = https://github.com/r-forge/cffdrs
@@ -110,6 +116,12 @@
 	url = https://github.com/r-forge/colorspace
 	shallow = true
 	subdir = pkg/colorspace
+	registered = true
+[submodule "CommonJavaJars"]
+	path = CommonJavaJars
+	url = https://github.com/r-forge/gsrmtp
+	shallow = true
+	subdir = pkg/CommonJavaJars
 	registered = true
 [submodule "cops"]
 	path = cops
