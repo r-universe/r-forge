@@ -363,12 +363,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "lbiassurv"]
-	path = lbiassurv
-	url = https://github.com/r-forge/lbiassurv
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "linprog"]
 	path = linprog
 	url = https://github.com/r-forge/linprog

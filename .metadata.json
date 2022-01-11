@@ -239,10 +239,6 @@
     "oncran": true
   },
   {
-    "package": "lbiassurv",
-    "oncran": true
-  },
-  {
     "package": "linprog",
     "oncran": true
   },
