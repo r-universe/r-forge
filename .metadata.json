@@ -367,6 +367,10 @@
     "oncran": true
   },
   {
+    "package": "plugdensity",
+    "oncran": true
+  },
+  {
     "package": "Polychrome",
     "oncran": true
   },

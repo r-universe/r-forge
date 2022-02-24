@@ -555,6 +555,12 @@
 	shallow = true
 	subdir = pkg/PKPDmodels
 	registered = true
+[submodule "plugdensity"]
+	path = plugdensity
+	url = https://github.com/r-forge/curves-etc
+	shallow = true
+	subdir = pkg/plugdensity
+	registered = true
 [submodule "Polychrome"]
 	path = Polychrome
 	url = https://github.com/r-forge/oompa
