@@ -231,10 +231,6 @@
     "oncran": true
   },
   {
-    "package": "klausuR",
-    "oncran": true
-  },
-  {
     "package": "latticeExtra",
     "oncran": true
   },
