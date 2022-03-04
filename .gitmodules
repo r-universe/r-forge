@@ -387,6 +387,18 @@
 	shallow = true
 	subdir = pkg
 	registered = true
+[submodule "Matrix"]
+	path = Matrix
+	url = https://github.com/r-forge/matrix
+	shallow = true
+	subdir = pkg/Matrix
+	registered = true
+[submodule "MatrixModels"]
+	path = MatrixModels
+	url = https://github.com/r-forge/matrix
+	shallow = true
+	subdir = pkg/MatrixModels
+	registered = true
 [submodule "metamisc"]
 	path = metamisc
 	url = https://github.com/r-forge/metamisc
