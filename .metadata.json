@@ -223,8 +223,7 @@
     "oncran": true
   },
   {
-    "package": "inference",
-    "oncran": true
+    "package": "inference"
   },
   {
     "package": "isotone",
