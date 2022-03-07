@@ -339,12 +339,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "inference"]
-	path = inference
-	url = https://github.com/r-forge/inference
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "isotone"]
 	path = isotone
 	url = https://github.com/r-forge/psychor
