@@ -603,6 +603,10 @@
     "oncran": true
   },
   {
+    "package": "spgwr",
+    "oncran": true
+  },
+  {
     "package": "SportsAnalytics",
     "oncran": true
   },
