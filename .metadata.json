@@ -423,9 +423,6 @@
     "oncran": true
   },
   {
-    "package": "rJython"
-  },
-  {
     "package": "Rmpfr",
     "oncran": true
   },
