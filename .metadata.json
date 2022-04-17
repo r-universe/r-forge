@@ -207,6 +207,10 @@
     "oncran": true
   },
   {
+    "package": "GPArotation",
+    "oncran": true
+  },
+  {
     "package": "gridGraphviz",
     "oncran": true
   },

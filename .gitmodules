@@ -315,6 +315,12 @@
 	shallow = true
 	subdir = pkg/GNE
 	registered = true
+[submodule "GPArotation"]
+	path = GPArotation
+	url = https://github.com/r-forge/optimizer
+	shallow = true
+	subdir = pkg/GPArotation
+	registered = true
 [submodule "gridGraphviz"]
 	path = gridGraphviz
 	url = https://github.com/r-forge/gridgraph
