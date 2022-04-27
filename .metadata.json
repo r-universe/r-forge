@@ -12,8 +12,7 @@
     "oncran": true
   },
   {
-    "package": "aspect",
-    "oncran": true
+    "package": "aspect"
   },
   {
     "package": "basefun",
@@ -287,8 +286,7 @@
     "oncran": true
   },
   {
-    "package": "modelfree",
-    "oncran": true
+    "package": "modelfree"
   },
   {
     "package": "modEvA",
