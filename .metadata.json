@@ -12,9 +12,6 @@
     "oncran": true
   },
   {
-    "package": "aspect"
-  },
-  {
     "package": "basefun",
     "oncran": true
   },
@@ -284,9 +281,6 @@
   {
     "package": "mlt.docreg",
     "oncran": true
-  },
-  {
-    "package": "modelfree"
   },
   {
     "package": "modEvA",
