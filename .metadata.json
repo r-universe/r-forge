@@ -375,8 +375,7 @@
     "oncran": true
   },
   {
-    "package": "prob",
-    "oncran": true
+    "package": "prob"
   },
   {
     "package": "PST",
