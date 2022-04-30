@@ -567,12 +567,6 @@
 	shallow = true
 	subdir = pkg/PreProcess
 	registered = true
-[submodule "prob"]
-	path = prob
-	url = https://github.com/r-forge/prob
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "PST"]
 	path = PST
 	url = https://github.com/r-forge/pst
