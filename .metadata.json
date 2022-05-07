@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "aspect",
+    "oncran": true
+  },
+  {
     "package": "basefun",
     "oncran": true
   },

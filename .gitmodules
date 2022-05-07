@@ -21,6 +21,12 @@
 	shallow = true
 	subdir = pkg
 	registered = true
+[submodule "aspect"]
+	path = aspect
+	url = https://github.com/r-forge/psychor
+	shallow = true
+	subdir = pkg/aspect
+	registered = true
 [submodule "basefun"]
 	path = basefun
 	url = https://github.com/r-forge/ctm
