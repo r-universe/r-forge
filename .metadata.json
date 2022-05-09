@@ -599,8 +599,7 @@
     "oncran": true
   },
   {
-    "package": "SportsAnalytics",
-    "oncran": true
+    "package": "SportsAnalytics"
   },
   {
     "package": "sse",
