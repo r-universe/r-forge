@@ -903,12 +903,6 @@
 	shallow = true
 	subdir = pkg/spgwr
 	registered = true
-[submodule "SportsAnalytics"]
-	path = SportsAnalytics
-	url = https://github.com/r-forge/soccer
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "sse"]
 	path = sse
 	url = https://github.com/r-forge/power
