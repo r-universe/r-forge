@@ -1035,12 +1035,6 @@
 	shallow = true
 	subdir = pkg/TSdbi
 	registered = true
-[submodule "TSfame"]
-	path = TSfame
-	url = https://github.com/r-forge/tsdbi
-	shallow = true
-	subdir = pkg/TSfame
-	registered = true
 [submodule "TSmisc"]
 	path = TSmisc
 	url = https://github.com/r-forge/tsdbi

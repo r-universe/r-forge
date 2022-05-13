@@ -687,9 +687,6 @@
     "oncran": true
   },
   {
-    "package": "TSfame"
-  },
-  {
     "package": "TSmisc",
     "oncran": true
   },
