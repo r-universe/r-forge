@@ -547,9 +547,6 @@
     "oncran": true
   },
   {
-    "package": "sampSurf"
-  },
-  {
     "package": "sandwich",
     "oncran": true
   },

@@ -825,12 +825,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "sampSurf"]
-	path = sampSurf
-	url = https://github.com/r-forge/sampsurf
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "sandwich"]
 	path = sandwich
 	url = https://github.com/r-forge/sandwich
