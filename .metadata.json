@@ -743,10 +743,6 @@
     "oncran": true
   },
   {
-    "package": "Matrix",
-    "oncran": true
-  },
-  {
     "package": "supraHex"
   }
 ]
