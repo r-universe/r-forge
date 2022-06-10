@@ -671,8 +671,7 @@
     "oncran": true
   },
   {
-    "package": "TScompare",
-    "oncran": true
+    "package": "TScompare"
   },
   {
     "package": "tscount",
