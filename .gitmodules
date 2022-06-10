@@ -597,6 +597,12 @@
 	shallow = true
 	subdir = R2MLwiN
 	registered = true
+[submodule "randtoolbox"]
+	path = randtoolbox
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/randtoolbox
+	registered = true
 [submodule "RandVar"]
 	path = RandVar
 	url = https://github.com/r-forge/robast

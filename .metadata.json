@@ -395,6 +395,10 @@
     "oncran": true
   },
   {
+    "package": "randtoolbox",
+    "oncran": true
+  },
+  {
     "package": "RandVar",
     "oncran": true
   },
