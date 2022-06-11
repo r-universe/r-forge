@@ -1011,12 +1011,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "TScompare"]
-	path = TScompare
-	url = https://github.com/r-forge/tsdbi
-	shallow = true
-	subdir = pkg/TScompare
-	registered = true
 [submodule "tscount"]
 	path = tscount
 	url = https://github.com/r-forge/tscount
