@@ -299,9 +299,6 @@
     "oncran": true
   },
   {
-    "package": "msap"
-  },
-  {
     "package": "multcomp",
     "oncran": true
   },

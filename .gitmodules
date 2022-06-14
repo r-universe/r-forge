@@ -453,12 +453,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "msap"]
-	path = msap
-	url = https://github.com/r-forge/msap
-	shallow = true
-	subdir = pkg/msap
-	registered = true
 [submodule "multcomp"]
 	path = multcomp
 	url = https://github.com/r-forge/multcomp
