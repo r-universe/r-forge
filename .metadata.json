@@ -235,8 +235,7 @@
     "oncran": true
   },
   {
-    "package": "lbiassurv",
-    "oncran": true
+    "package": "lbiassurv"
   },
   {
     "package": "linprog",
@@ -323,8 +322,7 @@
     "oncran": true
   },
   {
-    "package": "osmar",
-    "oncran": true
+    "package": "osmar"
   },
   {
     "package": "party",
