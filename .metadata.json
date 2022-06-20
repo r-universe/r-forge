@@ -247,9 +247,6 @@
     "oncran": true
   },
   {
-    "package": "lshorth"
-  },
-  {
     "package": "maptools",
     "oncran": true
   },
@@ -348,9 +345,6 @@
   {
     "package": "pems.utils",
     "oncran": true
-  },
-  {
-    "package": "PKPDmodels"
   },
   {
     "package": "plugdensity",
@@ -547,9 +541,6 @@
   {
     "package": "sandwich",
     "oncran": true
-  },
-  {
-    "package": "SBSA"
   },
   {
     "package": "setRNG",

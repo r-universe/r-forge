@@ -375,12 +375,6 @@
 	shallow = true
 	subdir = pkg/loa
 	registered = true
-[submodule "lshorth"]
-	path = lshorth
-	url = https://github.com/r-forge/lshorth
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "maptools"]
 	path = maptools
 	url = https://github.com/r-forge/maptools
@@ -530,12 +524,6 @@
 	url = https://github.com/r-forge/pems
 	shallow = true
 	subdir = pkg/pems.utils
-	registered = true
-[submodule "PKPDmodels"]
-	path = PKPDmodels
-	url = https://github.com/r-forge/pkpd
-	shallow = true
-	subdir = pkg/PKPDmodels
 	registered = true
 [submodule "plugdensity"]
 	path = plugdensity
@@ -828,12 +816,6 @@
 [submodule "sandwich"]
 	path = sandwich
 	url = https://github.com/r-forge/sandwich
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "SBSA"]
-	path = SBSA
-	url = https://github.com/r-forge/sbsa
 	shallow = true
 	subdir = pkg
 	registered = true
