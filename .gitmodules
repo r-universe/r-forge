@@ -357,12 +357,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "lbiassurv"]
-	path = lbiassurv
-	url = https://github.com/r-forge/lbiassurv
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "linprog"]
 	path = linprog
 	url = https://github.com/r-forge/linprog
@@ -488,12 +482,6 @@
 	url = https://github.com/r-forge/oompa
 	shallow = true
 	subdir = pkg/oompaData
-	registered = true
-[submodule "osmar"]
-	path = osmar
-	url = https://github.com/r-forge/osmar
-	shallow = true
-	subdir = pkg/osmar
 	registered = true
 [submodule "party"]
 	path = party
