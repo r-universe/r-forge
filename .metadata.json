@@ -47,8 +47,7 @@
     "oncran": true
   },
   {
-    "package": "cffdrs",
-    "oncran": true
+    "package": "cffdrs"
   },
   {
     "package": "CHNOSZ",
