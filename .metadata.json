@@ -47,9 +47,6 @@
     "oncran": true
   },
   {
-    "package": "cffdrs"
-  },
-  {
     "package": "CHNOSZ",
     "oncran": true
   },
@@ -171,6 +168,10 @@
   },
   {
     "package": "FFD",
+    "oncran": true
+  },
+  {
+    "package": "fImport",
     "oncran": true
   },
   {
