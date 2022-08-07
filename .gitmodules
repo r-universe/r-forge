@@ -255,11 +255,23 @@
 	shallow = true
 	subdir = pkg
 	registered = true
+[submodule "fExtremes"]
+	path = fExtremes
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/fExtremes
+	registered = true
 [submodule "FFD"]
 	path = FFD
 	url = https://github.com/r-forge/ffd
 	shallow = true
 	subdir = pkg
+	registered = true
+[submodule "fGarch"]
+	path = fGarch
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/fGarch
 	registered = true
 [submodule "fImport"]
 	path = fImport
@@ -284,6 +296,12 @@
 	url = https://github.com/r-forge/frontier
 	shallow = true
 	subdir = pkg/frontier
+	registered = true
+[submodule "fUnitRoots"]
+	path = fUnitRoots
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/fUnitRoots
 	registered = true
 [submodule "fwi.fbp"]
 	path = fwi.fbp

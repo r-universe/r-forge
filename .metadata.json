@@ -167,7 +167,15 @@
     "oncran": true
   },
   {
+    "package": "fExtremes",
+    "oncran": true
+  },
+  {
     "package": "FFD",
+    "oncran": true
+  },
+  {
+    "package": "fGarch",
     "oncran": true
   },
   {
@@ -184,6 +192,10 @@
   },
   {
     "package": "frontier",
+    "oncran": true
+  },
+  {
+    "package": "fUnitRoots",
     "oncran": true
   },
   {
