@@ -167,6 +167,10 @@
     "oncran": true
   },
   {
+    "package": "fBasics",
+    "oncran": true
+  },
+  {
     "package": "fExtremes",
     "oncran": true
   },
