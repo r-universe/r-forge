@@ -39,8 +39,7 @@
     "oncran": true
   },
   {
-    "package": "cdb",
-    "oncran": true
+    "package": "cdb"
   },
   {
     "package": "censReg",
