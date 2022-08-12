@@ -69,6 +69,12 @@
 	shallow = true
 	subdir = pkg/censReg
 	registered = true
+[submodule "cffdrs"]
+	path = cffdrs
+	url = https://github.com/r-forge/cffdrs
+	shallow = true
+	subdir = pkg/cffdrs
+	registered = true
 [submodule "CHNOSZ"]
 	path = CHNOSZ
 	url = https://github.com/r-forge/chnosz
@@ -290,6 +296,12 @@
 	url = https://github.com/r-forge/fme
 	shallow = true
 	subdir = pkg/FME
+	registered = true
+[submodule "fRegression"]
+	path = fRegression
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/fRegression
 	registered = true
 [submodule "frontier"]
 	path = frontier

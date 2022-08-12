@@ -43,6 +43,10 @@
     "oncran": true
   },
   {
+    "package": "cffdrs",
+    "oncran": true
+  },
+  {
     "package": "CHNOSZ",
     "oncran": true
   },
@@ -188,6 +192,10 @@
   },
   {
     "package": "FME",
+    "oncran": true
+  },
+  {
+    "package": "fRegression",
     "oncran": true
   },
   {
