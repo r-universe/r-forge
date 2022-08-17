@@ -663,8 +663,7 @@
     "oncran": true
   },
   {
-    "package": "tramvs",
-    "oncran": true
+    "package": "tramvs"
   },
   {
     "package": "trtf",
