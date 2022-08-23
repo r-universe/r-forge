@@ -583,10 +583,6 @@
     "oncran": true
   },
   {
-    "package": "sparsesvd",
-    "oncran": true
-  },
-  {
     "package": "SpatialExtremes",
     "oncran": true
   },
