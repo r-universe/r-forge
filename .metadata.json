@@ -675,42 +675,6 @@
     "oncran": true
   },
   {
-    "package": "TSdata",
-    "oncran": true
-  },
-  {
-    "package": "TSdbi",
-    "oncran": true
-  },
-  {
-    "package": "TSmisc",
-    "oncran": true
-  },
-  {
-    "package": "TSMySQL",
-    "oncran": true
-  },
-  {
-    "package": "TSodbc",
-    "oncran": true
-  },
-  {
-    "package": "TSPostgreSQL",
-    "oncran": true
-  },
-  {
-    "package": "TSsdmx",
-    "oncran": true
-  },
-  {
-    "package": "TSsql",
-    "oncran": true
-  },
-  {
-    "package": "TSSQLite",
-    "oncran": true
-  },
-  {
     "package": "urbin",
     "oncran": true
   },

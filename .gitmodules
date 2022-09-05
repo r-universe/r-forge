@@ -1017,60 +1017,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "TSdata"]
-	path = TSdata
-	url = https://github.com/r-forge/tsdbi
-	shallow = true
-	subdir = pkg/TSdata
-	registered = true
-[submodule "TSdbi"]
-	path = TSdbi
-	url = https://github.com/r-forge/tsdbi
-	shallow = true
-	subdir = pkg/TSdbi
-	registered = true
-[submodule "TSmisc"]
-	path = TSmisc
-	url = https://github.com/r-forge/tsdbi
-	shallow = true
-	subdir = pkg/TSmisc
-	registered = true
-[submodule "TSMySQL"]
-	path = TSMySQL
-	url = https://github.com/r-forge/tsdbi
-	shallow = true
-	subdir = pkg/TSMySQL
-	registered = true
-[submodule "TSodbc"]
-	path = TSodbc
-	url = https://github.com/r-forge/tsdbi
-	shallow = true
-	subdir = pkg/TSodbc
-	registered = true
-[submodule "TSPostgreSQL"]
-	path = TSPostgreSQL
-	url = https://github.com/r-forge/tsdbi
-	shallow = true
-	subdir = pkg/TSPostgreSQL
-	registered = true
-[submodule "TSsdmx"]
-	path = TSsdmx
-	url = https://github.com/r-forge/tsdbi
-	shallow = true
-	subdir = pkg/TSsdmx
-	registered = true
-[submodule "TSsql"]
-	path = TSsql
-	url = https://github.com/r-forge/tsdbi
-	shallow = true
-	subdir = pkg/TSsql
-	registered = true
-[submodule "TSSQLite"]
-	path = TSSQLite
-	url = https://github.com/r-forge/tsdbi
-	shallow = true
-	subdir = pkg/TSSQLite
-	registered = true
 [submodule "urbin"]
 	path = urbin
 	url = https://github.com/r-forge/urbin
