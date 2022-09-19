@@ -9,6 +9,12 @@
 	shallow = true
 	subdir = pkg
 	registered = true
+[submodule "anacor"]
+	path = anacor
+	url = https://github.com/r-forge/psychor
+	shallow = true
+	subdir = pkg/anacor
+	registered = true
 [submodule "arrayhelpers"]
 	path = arrayhelpers
 	url = https://github.com/r-forge/arrayhelpers
@@ -1058,4 +1064,10 @@
 	url = https://github.com/r-forge/zoo
 	shallow = true
 	subdir = pkg/zoo
+	registered = true
+[submodule "supraHex"]
+	path = supraHex
+	url = https://github.com/r-forge/suprahex
+	shallow = true
+	subdir = pkg
 	registered = true
