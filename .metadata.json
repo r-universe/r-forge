@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "anacor",
-    "oncran": true
-  },
-  {
     "package": "arrayhelpers",
     "oncran": true
   },
@@ -705,8 +701,5 @@
   {
     "package": "zoo",
     "oncran": true
-  },
-  {
-    "package": "supraHex"
   }
 ]
