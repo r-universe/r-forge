@@ -417,12 +417,6 @@
 	shallow = true
 	subdir = pkg/MatrixModels
 	registered = true
-[submodule "metamisc"]
-	path = metamisc
-	url = https://github.com/r-forge/metamisc
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "meteo"]
 	path = meteo
 	url = https://github.com/r-forge/meteo

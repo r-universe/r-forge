@@ -275,10 +275,6 @@
     "oncran": true
   },
   {
-    "package": "metamisc",
-    "oncran": true
-  },
-  {
     "package": "meteo",
     "oncran": true
   },
