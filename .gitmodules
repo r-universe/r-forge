@@ -219,12 +219,6 @@
 	shallow = true
 	subdir = pkg/DPQ
 	registered = true
-[submodule "dsample"]
-	path = dsample
-	url = https://github.com/r-forge/wanglee
-	shallow = true
-	subdir = pkg/dsample
-	registered = true
 [submodule "dse"]
 	path = dse
 	url = https://github.com/r-forge/tsanalysis

@@ -143,10 +143,6 @@
     "oncran": true
   },
   {
-    "package": "dsample",
-    "oncran": true
-  },
-  {
     "package": "dse",
     "oncran": true
   },
