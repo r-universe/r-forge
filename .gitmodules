@@ -525,6 +525,12 @@
 	shallow = true
 	subdir = pkg/pems.utils
 	registered = true
+[submodule "plasma"]
+	path = plasma
+	url = https://github.com/r-forge/oompa
+	shallow = true
+	subdir = pkg/plasma
+	registered = true
 [submodule "plugdensity"]
 	path = plugdensity
 	url = https://github.com/r-forge/curves-etc
