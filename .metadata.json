@@ -615,10 +615,6 @@
     "oncran": true
   },
   {
-    "package": "timeDate",
-    "oncran": true
-  },
-  {
     "package": "tm",
     "oncran": true
   },

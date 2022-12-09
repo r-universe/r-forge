@@ -927,12 +927,6 @@
 	shallow = true
 	subdir = pkg/tframePlus
 	registered = true
-[submodule "timeDate"]
-	path = timeDate
-	url = https://github.com/r-forge/rmetrics
-	shallow = true
-	subdir = pkg/timeDate
-	registered = true
 [submodule "tm"]
 	path = tm
 	url = https://github.com/r-forge/tm
