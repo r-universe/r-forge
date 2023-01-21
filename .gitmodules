@@ -891,6 +891,12 @@
 	shallow = true
 	subdir = pkg/sse
 	registered = true
+[submodule "stops"]
+	path = stops
+	url = https://github.com/r-forge/stops
+	shallow = true
+	subdir = pkg/stops
+	registered = true
 [submodule "surveillance"]
 	path = surveillance
 	url = https://github.com/r-forge/surveillance

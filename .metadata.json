@@ -591,6 +591,10 @@
     "oncran": true
   },
   {
+    "package": "stops",
+    "oncran": true
+  },
+  {
     "package": "surveillance",
     "oncran": true
   },
