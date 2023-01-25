@@ -81,18 +81,6 @@
 	shallow = true
 	subdir = pkg/CHNOSZ
 	registered = true
-[submodule "ClassComparison"]
-	path = ClassComparison
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/ClassComparison
-	registered = true
-[submodule "ClassDiscovery"]
-	path = ClassDiscovery
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/ClassDiscovery
-	registered = true
 [submodule "cobs"]
 	path = cobs
 	url = https://github.com/r-forge/curves-etc
@@ -483,18 +471,6 @@
 	shallow = true
 	subdir = pkg/numDeriv
 	registered = true
-[submodule "oompaBase"]
-	path = oompaBase
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/oompaBase
-	registered = true
-[submodule "oompaData"]
-	path = oompaData
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/oompaData
-	registered = true
 [submodule "party"]
 	path = party
 	url = https://github.com/r-forge/party
@@ -525,23 +501,11 @@
 	shallow = true
 	subdir = pkg/pems.utils
 	registered = true
-[submodule "plasma"]
-	path = plasma
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/plasma
-	registered = true
 [submodule "plugdensity"]
 	path = plugdensity
 	url = https://github.com/r-forge/curves-etc
 	shallow = true
 	subdir = pkg/plugdensity
-	registered = true
-[submodule "Polychrome"]
-	path = Polychrome
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/Polychrome
 	registered = true
 [submodule "polycor"]
 	path = polycor
@@ -554,12 +518,6 @@
 	url = https://github.com/r-forge/pot
 	shallow = true
 	subdir = pkg
-	registered = true
-[submodule "PreProcess"]
-	path = PreProcess
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/PreProcess
 	registered = true
 [submodule "PST"]
 	path = PST
@@ -908,12 +866,6 @@
 	url = https://github.com/r-forge/tables
 	shallow = true
 	subdir = pkg/tables
-	registered = true
-[submodule "TailRank"]
-	path = TailRank
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/TailRank
 	registered = true
 [submodule "tbm"]
 	path = tbm
