@@ -651,10 +651,6 @@
     "oncran": true
   },
   {
-    "package": "tramvs",
-    "oncran": true
-  },
-  {
     "package": "trtf",
     "oncran": true
   },
@@ -700,5 +696,8 @@
   },
   {
     "package": "supraHex"
+  },
+  {
+    "package": "tramvs"
   }
 ]
