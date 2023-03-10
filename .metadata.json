@@ -698,6 +698,7 @@
     "package": "supraHex"
   },
   {
-    "package": "tramvs"
+    "package": "tramvs",
+    "oncran": true
   }
 ]
