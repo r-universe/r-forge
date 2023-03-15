@@ -1,193 +1,6 @@
 [
   {
-    "package": "arrayhelpers",
-    "oncran": true
-  },
-  {
-    "package": "softclassval",
-    "oncran": true
-  },
-  {
-    "package": "mutossGUI",
-    "oncran": true
-  },
-  {
-    "package": "CommonJavaJars",
-    "oncran": true
-  },
-  {
-    "package": "car",
-    "oncran": true
-  },
-  {
-    "package": "polycor",
-    "oncran": true
-  },
-  {
-    "package": "carData",
-    "oncran": true
-  },
-  {
-    "package": "fRegression",
-    "oncran": true
-  },
-  {
-    "package": "fExtremes",
-    "oncran": true
-  },
-  {
-    "package": "meteo",
-    "oncran": true
-  },
-  {
-    "package": "Eagle",
-    "oncran": true
-  },
-  {
-    "package": "genoPlotR",
-    "oncran": true
-  },
-  {
-    "package": "pems.utils",
-    "oncran": true
-  },
-  {
-    "package": "loa",
-    "oncran": true
-  },
-  {
-    "package": "pcalg",
-    "oncran": true
-  },
-  {
-    "package": "cffdrs",
-    "oncran": true
-  },
-  {
-    "package": "latticeExtra",
-    "oncran": true
-  },
-  {
-    "package": "truncreg",
-    "oncran": true
-  },
-  {
-    "package": "mlogit",
-    "oncran": true
-  },
-  {
-    "package": "rgdal",
-    "oncran": true
-  },
-  {
-    "package": "rgeos",
-    "oncran": true
-  },
-  {
-    "package": "spgwr",
-    "oncran": true
-  },
-  {
-    "package": "maptools",
-    "oncran": true
-  },
-  {
-    "package": "mpmi",
-    "oncran": true
-  },
-  {
-    "package": "skellam",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.ipop",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.msbinlp",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.scs",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.nloptr",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.neos",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.qpoases",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.optimx",
-    "oncran": true
-  },
-  {
-    "package": "ROI.models.miplib",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.ecos",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.osqp",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.alabama",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.deoptim",
-    "oncran": true
-  },
-  {
-    "package": "modEvA",
-    "oncran": true
-  },
-  {
-    "package": "BiplotGUI"
-  },
-  {
-    "package": "tramvs",
-    "oncran": true
-  },
-  {
-    "package": "PST",
-    "oncran": true
-  },
-  {
-    "package": "EasyABC",
-    "oncran": true
-  },
-  {
-    "package": "grImport",
-    "oncran": true
-  },
-  {
-    "package": "gridGraphviz",
-    "oncran": true
-  },
-  {
-    "package": "isotone",
-    "oncran": true
-  },
-  {
-    "package": "WRS2",
-    "oncran": true
-  },
-  {
-    "package": "Gifi",
-    "oncran": true
-  },
-  {
-    "package": "aspect",
+    "package": "agrmt",
     "oncran": true
   },
   {
@@ -195,134 +8,11 @@
     "oncran": true
   },
   {
-    "package": "tfplot",
+    "package": "arrayhelpers",
     "oncran": true
   },
   {
-    "package": "EvalEst",
-    "oncran": true
-  },
-  {
-    "package": "dse",
-    "oncran": true
-  },
-  {
-    "package": "numDeriv",
-    "oncran": true
-  },
-  {
-    "package": "tframePlus",
-    "oncran": true
-  },
-  {
-    "package": "tframe",
-    "oncran": true
-  },
-  {
-    "package": "setRNG",
-    "oncran": true
-  },
-  {
-    "package": "tm",
-    "oncran": true
-  },
-  {
-    "package": "fwi.fbp",
-    "oncran": true
-  },
-  {
-    "package": "wordspace",
-    "oncran": true
-  },
-  {
-    "package": "corpora",
-    "oncran": true
-  },
-  {
-    "package": "GPArotation",
-    "oncran": true
-  },
-  {
-    "package": "frontier",
-    "oncran": true
-  },
-  {
-    "package": "linprog",
-    "oncran": true
-  },
-  {
-    "package": "censReg",
-    "oncran": true
-  },
-  {
-    "package": "urbin",
-    "oncran": true
-  },
-  {
-    "package": "tm.plugin.europresse",
-    "oncran": true
-  },
-  {
-    "package": "tm.plugin.alceste",
-    "oncran": true
-  },
-  {
-    "package": "randtoolbox",
-    "oncran": true
-  },
-  {
-    "package": "GNE",
-    "oncran": true
-  },
-  {
-    "package": "supraHex"
-  },
-  {
-    "package": "TopKLists",
-    "oncran": true
-  },
-  {
-    "package": "R2MLwiN",
-    "oncran": true
-  },
-  {
-    "package": "QSARdata",
-    "oncran": true
-  },
-  {
-    "package": "FFD",
-    "oncran": true
-  },
-  {
-    "package": "FME",
-    "oncran": true
-  },
-  {
-    "package": "tramnet",
-    "oncran": true
-  },
-  {
-    "package": "MatrixModels",
-    "oncran": true
-  },
-  {
-    "package": "Matrix",
-    "oncran": true
-  },
-  {
-    "package": "rNOMADS",
-    "oncran": true
-  },
-  {
-    "package": "mlt",
-    "oncran": true
-  },
-  {
-    "package": "mvtnorm",
-    "oncran": true
-  },
-  {
-    "package": "coin",
+    "package": "aspect",
     "oncran": true
   },
   {
@@ -330,75 +20,18 @@
     "oncran": true
   },
   {
-    "package": "tram",
-    "oncran": true
-  },
-  {
-    "package": "mlt.docreg",
-    "oncran": true
-  },
-  {
-    "package": "party",
-    "oncran": true
-  },
-  {
-    "package": "variables",
-    "oncran": true
-  },
-  {
-    "package": "multcomp",
-    "oncran": true
-  },
-  {
-    "package": "trtf",
-    "oncran": true
-  },
-  {
-    "package": "tbm",
-    "oncran": true
-  },
-  {
-    "package": "Sleuth3",
-    "oncran": true
-  },
-  {
-    "package": "Sleuth2",
-    "oncran": true
-  },
-  {
-    "package": "expm",
-    "oncran": true
-  },
-  {
-    "package": "DPQ",
-    "oncran": true
-  },
-  {
     "package": "Bessel",
     "oncran": true
   },
   {
-    "package": "robustbase",
+    "package": "BiplotGUI"
+  },
+  {
+    "package": "car",
     "oncran": true
   },
   {
-    "package": "cobs",
-    "oncran": true
-  },
-  {
-    "package": "plugdensity",
-    "oncran": true
-  },
-  {
-    "package": "copula",
-    "oncran": true
-  },
-  {
-    "package": "Rmpfr",
-    "oncran": true
-  },
-  {
-    "package": "POT",
+    "package": "carData",
     "oncran": true
   },
   {
@@ -406,199 +39,15 @@
     "oncran": true
   },
   {
-    "package": "qualV",
+    "package": "censReg",
     "oncran": true
   },
   {
-    "package": "deSolve",
-    "oncran": true
-  },
-  {
-    "package": "agrmt",
-    "oncran": true
-  },
-  {
-    "package": "zipfR",
-    "oncran": true
-  },
-  {
-    "package": "VarSelLCM",
-    "oncran": true
-  },
-  {
-    "package": "mpm",
-    "oncran": true
-  },
-  {
-    "package": "rvif",
-    "oncran": true
-  },
-  {
-    "package": "multiColl",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.quadprog",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.cplex",
-    "oncran": true
-  },
-  {
-    "package": "Rglpk",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.glpk",
-    "oncran": true
-  },
-  {
-    "package": "Rcplex",
-    "oncran": true
-  },
-  {
-    "package": "ROI",
-    "oncran": true
-  },
-  {
-    "package": "ROI.plugin.symphony",
-    "oncran": true
-  },
-  {
-    "package": "tramME",
-    "oncran": true
-  },
-  {
-    "package": "grImport2",
-    "oncran": true
-  },
-  {
-    "package": "RHRV",
-    "oncran": true
-  },
-  {
-    "package": "HistogramTools",
-    "oncran": true
-  },
-  {
-    "package": "RobLox",
-    "oncran": true
-  },
-  {
-    "package": "distrEx",
-    "oncran": true
-  },
-  {
-    "package": "RandVar",
-    "oncran": true
-  },
-  {
-    "package": "ROptEst",
-    "oncran": true
-  },
-  {
-    "package": "RobAStBase",
-    "oncran": true
-  },
-  {
-    "package": "RobLoxBioC",
-    "oncran": true
-  },
-  {
-    "package": "ROptRegTS",
-    "oncran": true
-  },
-  {
-    "package": "ROptEstOld",
-    "oncran": true
-  },
-  {
-    "package": "RobRex",
-    "oncran": true
-  },
-  {
-    "package": "sse",
-    "oncran": true
-  },
-  {
-    "package": "distrDoc",
-    "oncran": true
-  },
-  {
-    "package": "distrTeach",
-    "oncran": true
-  },
-  {
-    "package": "RobAStRDA",
-    "oncran": true
-  },
-  {
-    "package": "distr",
-    "oncran": true
-  },
-  {
-    "package": "distrEllipse",
-    "oncran": true
-  },
-  {
-    "package": "distrTEst",
-    "oncran": true
-  },
-  {
-    "package": "distrSim",
-    "oncran": true
-  },
-  {
-    "package": "RobExtremes",
-    "oncran": true
-  },
-  {
-    "package": "distrRmetrics",
-    "oncran": true
-  },
-  {
-    "package": "distrMod",
-    "oncran": true
-  },
-  {
-    "package": "copulaData",
-    "oncran": true
-  },
-  {
-    "package": "RNetLogo",
-    "oncran": true
-  },
-  {
-    "package": "tscount",
-    "oncran": true
-  },
-  {
-    "package": "sirad",
-    "oncran": true
-  },
-  {
-    "package": "SpatialExtremes",
-    "oncran": true
-  },
-  {
-    "package": "Rwave",
-    "oncran": true
-  },
-  {
-    "package": "surveillance",
+    "package": "cffdrs",
     "oncran": true
   },
   {
     "package": "CHNOSZ",
-    "oncran": true
-  },
-  {
-    "package": "oompaBase",
-    "oncran": true
-  },
-  {
-    "package": "oompaData",
     "oncran": true
   },
   {
@@ -610,27 +59,115 @@
     "oncran": true
   },
   {
-    "package": "plasma",
+    "package": "cobs",
     "oncran": true
   },
   {
-    "package": "Polychrome",
+    "package": "coin",
     "oncran": true
   },
   {
-    "package": "PreProcess",
+    "package": "colorspace",
     "oncran": true
   },
   {
-    "package": "TailRank",
+    "package": "CommonJavaJars",
     "oncran": true
   },
   {
-    "package": "FinTS",
+    "package": "cops",
     "oncran": true
   },
   {
-    "package": "fUnitRoots",
+    "package": "copula",
+    "oncran": true
+  },
+  {
+    "package": "copulaData",
+    "oncran": true
+  },
+  {
+    "package": "cordillera",
+    "oncran": true
+  },
+  {
+    "package": "corpora",
+    "oncran": true
+  },
+  {
+    "package": "cotram",
+    "oncran": true
+  },
+  {
+    "package": "deSolve",
+    "oncran": true
+  },
+  {
+    "package": "distr",
+    "oncran": true
+  },
+  {
+    "package": "distrDoc",
+    "oncran": true
+  },
+  {
+    "package": "distrEllipse",
+    "oncran": true
+  },
+  {
+    "package": "distrEx",
+    "oncran": true
+  },
+  {
+    "package": "distrMod",
+    "oncran": true
+  },
+  {
+    "package": "distrRmetrics",
+    "oncran": true
+  },
+  {
+    "package": "distrSim",
+    "oncran": true
+  },
+  {
+    "package": "distrTeach",
+    "oncran": true
+  },
+  {
+    "package": "distrTEst",
+    "oncran": true
+  },
+  {
+    "package": "DPQ",
+    "oncran": true
+  },
+  {
+    "package": "dse",
+    "oncran": true
+  },
+  {
+    "package": "Eagle",
+    "oncran": true
+  },
+  {
+    "package": "EasyABC",
+    "oncran": true
+  },
+  {
+    "package": "EvalEst",
+    "oncran": true
+  },
+  {
+    "package": "expm",
+    "oncran": true
+  },
+  {
+    "package": "fExtremes",
+    "oncran": true
+  },
+  {
+    "package": "FFD",
     "oncran": true
   },
   {
@@ -642,15 +179,27 @@
     "oncran": true
   },
   {
-    "package": "minqa",
+    "package": "FinTS",
     "oncran": true
   },
   {
-    "package": "xtable",
+    "package": "FME",
     "oncran": true
   },
   {
-    "package": "SkewHyperbolic",
+    "package": "fRegression",
+    "oncran": true
+  },
+  {
+    "package": "frontier",
+    "oncran": true
+  },
+  {
+    "package": "fUnitRoots",
+    "oncran": true
+  },
+  {
+    "package": "fwi.fbp",
     "oncran": true
   },
   {
@@ -658,19 +207,131 @@
     "oncran": true
   },
   {
-    "package": "colorspace",
+    "package": "genoPlotR",
     "oncran": true
   },
   {
-    "package": "zoo",
+    "package": "Gifi",
     "oncran": true
   },
   {
-    "package": "sandwich",
+    "package": "GNE",
     "oncran": true
   },
   {
-    "package": "Rsymphony",
+    "package": "GPArotation",
+    "oncran": true
+  },
+  {
+    "package": "gridGraphviz",
+    "oncran": true
+  },
+  {
+    "package": "grImport",
+    "oncran": true
+  },
+  {
+    "package": "grImport2",
+    "oncran": true
+  },
+  {
+    "package": "HistogramTools",
+    "oncran": true
+  },
+  {
+    "package": "isotone",
+    "oncran": true
+  },
+  {
+    "package": "latticeExtra",
+    "oncran": true
+  },
+  {
+    "package": "linprog",
+    "oncran": true
+  },
+  {
+    "package": "loa",
+    "oncran": true
+  },
+  {
+    "package": "maptools",
+    "oncran": true
+  },
+  {
+    "package": "Matrix",
+    "oncran": true
+  },
+  {
+    "package": "MatrixModels",
+    "oncran": true
+  },
+  {
+    "package": "meteo",
+    "oncran": true
+  },
+  {
+    "package": "minqa",
+    "oncran": true
+  },
+  {
+    "package": "mlogit",
+    "oncran": true
+  },
+  {
+    "package": "mlt",
+    "oncran": true
+  },
+  {
+    "package": "mlt.docreg",
+    "oncran": true
+  },
+  {
+    "package": "modEvA",
+    "oncran": true
+  },
+  {
+    "package": "mpm",
+    "oncran": true
+  },
+  {
+    "package": "mpmi",
+    "oncran": true
+  },
+  {
+    "package": "multcomp",
+    "oncran": true
+  },
+  {
+    "package": "multiColl",
+    "oncran": true
+  },
+  {
+    "package": "mutossGUI",
+    "oncran": true
+  },
+  {
+    "package": "mvtnorm",
+    "oncran": true
+  },
+  {
+    "package": "numDeriv",
+    "oncran": true
+  },
+  {
+    "package": "oompaBase",
+    "oncran": true
+  },
+  {
+    "package": "oompaData",
+    "oncran": true
+  },
+  {
+    "package": "party",
+    "oncran": true
+  },
+  {
+    "package": "pcalg",
     "oncran": true
   },
   {
@@ -678,15 +339,262 @@
     "oncran": true
   },
   {
+    "package": "pems.utils",
+    "oncran": true
+  },
+  {
+    "package": "plasma",
+    "oncran": true
+  },
+  {
+    "package": "plugdensity",
+    "oncran": true
+  },
+  {
+    "package": "Polychrome",
+    "oncran": true
+  },
+  {
+    "package": "polycor",
+    "oncran": true
+  },
+  {
+    "package": "POT",
+    "oncran": true
+  },
+  {
+    "package": "PreProcess",
+    "oncran": true
+  },
+  {
+    "package": "PST",
+    "oncran": true
+  },
+  {
+    "package": "QSARdata",
+    "oncran": true
+  },
+  {
+    "package": "qualV",
+    "oncran": true
+  },
+  {
+    "package": "R2MLwiN",
+    "oncran": true
+  },
+  {
+    "package": "randtoolbox",
+    "oncran": true
+  },
+  {
+    "package": "RandVar",
+    "oncran": true
+  },
+  {
+    "package": "Rcplex",
+    "oncran": true
+  },
+  {
+    "package": "rgdal",
+    "oncran": true
+  },
+  {
+    "package": "rgeos",
+    "oncran": true
+  },
+  {
+    "package": "Rglpk",
+    "oncran": true
+  },
+  {
+    "package": "RHRV",
+    "oncran": true
+  },
+  {
+    "package": "Rmpfr",
+    "oncran": true
+  },
+  {
+    "package": "RNetLogo",
+    "oncran": true
+  },
+  {
+    "package": "rNOMADS",
+    "oncran": true
+  },
+  {
+    "package": "RobAStBase",
+    "oncran": true
+  },
+  {
+    "package": "RobAStRDA",
+    "oncran": true
+  },
+  {
+    "package": "RobExtremes",
+    "oncran": true
+  },
+  {
+    "package": "RobLox",
+    "oncran": true
+  },
+  {
+    "package": "RobLoxBioC",
+    "oncran": true
+  },
+  {
+    "package": "RobRex",
+    "oncran": true
+  },
+  {
+    "package": "robustbase",
+    "oncran": true
+  },
+  {
+    "package": "ROI",
+    "oncran": true
+  },
+  {
+    "package": "ROI.models.miplib",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.alabama",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.cplex",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.deoptim",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.ecos",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.glpk",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.ipop",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.msbinlp",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.neos",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.nloptr",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.optimx",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.osqp",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.qpoases",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.quadprog",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.scs",
+    "oncran": true
+  },
+  {
+    "package": "ROI.plugin.symphony",
+    "oncran": true
+  },
+  {
+    "package": "ROptEst",
+    "oncran": true
+  },
+  {
+    "package": "ROptEstOld",
+    "oncran": true
+  },
+  {
+    "package": "ROptRegTS",
+    "oncran": true
+  },
+  {
+    "package": "Rsymphony",
+    "oncran": true
+  },
+  {
+    "package": "rvif",
+    "oncran": true
+  },
+  {
+    "package": "Rwave",
+    "oncran": true
+  },
+  {
+    "package": "sandwich",
+    "oncran": true
+  },
+  {
+    "package": "setRNG",
+    "oncran": true
+  },
+  {
+    "package": "sirad",
+    "oncran": true
+  },
+  {
+    "package": "skellam",
+    "oncran": true
+  },
+  {
+    "package": "SkewHyperbolic",
+    "oncran": true
+  },
+  {
+    "package": "Sleuth2",
+    "oncran": true
+  },
+  {
+    "package": "Sleuth3",
+    "oncran": true
+  },
+  {
+    "package": "softclassval",
+    "oncran": true
+  },
+  {
+    "package": "SpatialExtremes",
+    "oncran": true
+  },
+  {
+    "package": "spgwr",
+    "oncran": true
+  },
+  {
+    "package": "sse",
+    "oncran": true
+  },
+  {
     "package": "stops",
     "oncran": true
   },
   {
-    "package": "cops",
-    "oncran": true
+    "package": "supraHex"
   },
   {
-    "package": "cordillera",
+    "package": "surveillance",
     "oncran": true
   },
   {
@@ -694,7 +602,99 @@
     "oncran": true
   },
   {
-    "package": "cotram",
+    "package": "TailRank",
+    "oncran": true
+  },
+  {
+    "package": "tbm",
+    "oncran": true
+  },
+  {
+    "package": "tfplot",
+    "oncran": true
+  },
+  {
+    "package": "tframe",
+    "oncran": true
+  },
+  {
+    "package": "tframePlus",
+    "oncran": true
+  },
+  {
+    "package": "tm",
+    "oncran": true
+  },
+  {
+    "package": "tm.plugin.alceste",
+    "oncran": true
+  },
+  {
+    "package": "tm.plugin.europresse",
+    "oncran": true
+  },
+  {
+    "package": "TopKLists",
+    "oncran": true
+  },
+  {
+    "package": "tram",
+    "oncran": true
+  },
+  {
+    "package": "tramME",
+    "oncran": true
+  },
+  {
+    "package": "tramnet",
+    "oncran": true
+  },
+  {
+    "package": "tramvs",
+    "oncran": true
+  },
+  {
+    "package": "trtf",
+    "oncran": true
+  },
+  {
+    "package": "truncreg",
+    "oncran": true
+  },
+  {
+    "package": "tscount",
+    "oncran": true
+  },
+  {
+    "package": "urbin",
+    "oncran": true
+  },
+  {
+    "package": "variables",
+    "oncran": true
+  },
+  {
+    "package": "VarSelLCM",
+    "oncran": true
+  },
+  {
+    "package": "wordspace",
+    "oncran": true
+  },
+  {
+    "package": "WRS2",
+    "oncran": true
+  },
+  {
+    "package": "xtable",
+    "oncran": true
+  },
+  {
+    "package": "zipfR",
+    "oncran": true
+  },
+  {
+    "package": "zoo",
     "oncran": true
   }
 ]
