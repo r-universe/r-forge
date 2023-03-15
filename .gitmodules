@@ -3,467 +3,17 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "agrmt"]
-	path = agrmt
-	url = https://github.com/r-forge/agrmt
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "anacor"]
-	path = anacor
-	url = https://github.com/r-forge/psychor
-	shallow = true
-	subdir = pkg/anacor
-	registered = true
 [submodule "arrayhelpers"]
 	path = arrayhelpers
 	url = https://github.com/r-forge/arrayhelpers
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "aspect"]
-	path = aspect
-	url = https://github.com/r-forge/psychor
-	shallow = true
-	subdir = pkg/aspect
-	registered = true
-[submodule "basefun"]
-	path = basefun
-	url = https://github.com/r-forge/ctm
-	shallow = true
-	subdir = pkg/basefun
-	registered = true
-[submodule "Bessel"]
-	path = Bessel
-	url = https://github.com/r-forge/specfun
-	shallow = true
-	subdir = pkg/Bessel
-	registered = true
-[submodule "BiplotGUI"]
-	path = BiplotGUI
-	url = https://github.com/r-forge/biplotgui
+[submodule "softclassval"]
+	path = softclassval
+	url = https://github.com/r-forge/softclassval
 	shallow = true
 	subdir = pkg
-	registered = true
-[submodule "car"]
-	path = car
-	url = https://github.com/r-forge/car
-	shallow = true
-	subdir = pkg/car
-	registered = true
-[submodule "carData"]
-	path = carData
-	url = https://github.com/r-forge/car
-	shallow = true
-	subdir = pkg/carData
-	registered = true
-[submodule "cardidates"]
-	path = cardidates
-	url = https://github.com/r-forge/cardidates
-	shallow = true
-	subdir = pkg/cardidates
-	registered = true
-[submodule "censReg"]
-	path = censReg
-	url = https://github.com/r-forge/sampleselection
-	shallow = true
-	subdir = pkg/censReg
-	registered = true
-[submodule "cffdrs"]
-	path = cffdrs
-	url = https://github.com/r-forge/cffdrs
-	shallow = true
-	subdir = pkg/cffdrs
-	registered = true
-[submodule "CHNOSZ"]
-	path = CHNOSZ
-	url = https://github.com/r-forge/chnosz
-	shallow = true
-	subdir = pkg/CHNOSZ
-	registered = true
-[submodule "ClassComparison"]
-	path = ClassComparison
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/ClassComparison
-	registered = true
-[submodule "ClassDiscovery"]
-	path = ClassDiscovery
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/ClassDiscovery
-	registered = true
-[submodule "cobs"]
-	path = cobs
-	url = https://github.com/r-forge/curves-etc
-	shallow = true
-	subdir = pkg/cobs
-	registered = true
-[submodule "coin"]
-	path = coin
-	url = https://github.com/r-forge/coin
-	shallow = true
-	subdir = pkg/coin
-	registered = true
-[submodule "colorspace"]
-	path = colorspace
-	url = https://github.com/r-forge/colorspace
-	shallow = true
-	subdir = pkg/colorspace
-	registered = true
-[submodule "CommonJavaJars"]
-	path = CommonJavaJars
-	url = https://github.com/r-forge/gsrmtp
-	shallow = true
-	subdir = pkg/CommonJavaJars
-	registered = true
-[submodule "cops"]
-	path = cops
-	url = https://github.com/r-forge/stops
-	shallow = true
-	subdir = pkg/cops
-	registered = true
-[submodule "copula"]
-	path = copula
-	url = https://github.com/r-forge/copula
-	shallow = true
-	subdir = pkg/copula
-	registered = true
-[submodule "copulaData"]
-	path = copulaData
-	url = https://github.com/r-forge/copula
-	shallow = true
-	subdir = pkg/copulaData
-	registered = true
-[submodule "cordillera"]
-	path = cordillera
-	url = https://github.com/r-forge/stops
-	shallow = true
-	subdir = pkg/cordillera
-	registered = true
-[submodule "corpora"]
-	path = corpora
-	url = https://github.com/r-forge/sigil
-	shallow = true
-	subdir = pkg/corpora
-	registered = true
-[submodule "cotram"]
-	path = cotram
-	url = https://github.com/r-forge/ctm
-	shallow = true
-	subdir = pkg/cotram
-	registered = true
-[submodule "deSolve"]
-	path = deSolve
-	url = https://github.com/r-forge/desolve
-	shallow = true
-	subdir = pkg/deSolve
-	registered = true
-[submodule "distr"]
-	path = distr
-	url = https://github.com/r-forge/distr
-	shallow = true
-	subdir = pkg/distr
-	registered = true
-[submodule "distrDoc"]
-	path = distrDoc
-	url = https://github.com/r-forge/distr
-	shallow = true
-	subdir = pkg/distrDoc
-	registered = true
-[submodule "distrEllipse"]
-	path = distrEllipse
-	url = https://github.com/r-forge/distr
-	shallow = true
-	subdir = pkg/distrEllipse
-	registered = true
-[submodule "distrEx"]
-	path = distrEx
-	url = https://github.com/r-forge/distr
-	shallow = true
-	subdir = pkg/distrEx
-	registered = true
-[submodule "distrMod"]
-	path = distrMod
-	url = https://github.com/r-forge/distr
-	shallow = true
-	subdir = pkg/distrMod
-	registered = true
-[submodule "distrRmetrics"]
-	path = distrRmetrics
-	url = https://github.com/r-forge/distr
-	shallow = true
-	subdir = pkg/distrRmetrics
-	registered = true
-[submodule "distrSim"]
-	path = distrSim
-	url = https://github.com/r-forge/distr
-	shallow = true
-	subdir = pkg/distrSim
-	registered = true
-[submodule "distrTeach"]
-	path = distrTeach
-	url = https://github.com/r-forge/distr
-	shallow = true
-	subdir = pkg/distrTeach
-	registered = true
-[submodule "distrTEst"]
-	path = distrTEst
-	url = https://github.com/r-forge/distr
-	shallow = true
-	subdir = pkg/distrTEst
-	registered = true
-[submodule "DPQ"]
-	path = DPQ
-	url = https://github.com/r-forge/specfun
-	shallow = true
-	subdir = pkg/DPQ
-	registered = true
-[submodule "dse"]
-	path = dse
-	url = https://github.com/r-forge/tsanalysis
-	shallow = true
-	subdir = pkg/dse
-	registered = true
-[submodule "Eagle"]
-	path = Eagle
-	url = https://github.com/r-forge/eagle
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "EasyABC"]
-	path = EasyABC
-	url = https://github.com/r-forge/easyabc
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "EvalEst"]
-	path = EvalEst
-	url = https://github.com/r-forge/tsanalysis
-	shallow = true
-	subdir = pkg/EvalEst
-	registered = true
-[submodule "expm"]
-	path = expm
-	url = https://github.com/r-forge/expm
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "fExtremes"]
-	path = fExtremes
-	url = https://github.com/r-forge/rmetrics
-	shallow = true
-	subdir = pkg/fExtremes
-	registered = true
-[submodule "FFD"]
-	path = FFD
-	url = https://github.com/r-forge/ffd
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "fGarch"]
-	path = fGarch
-	url = https://github.com/r-forge/rmetrics
-	shallow = true
-	subdir = pkg/fGarch
-	registered = true
-[submodule "fImport"]
-	path = fImport
-	url = https://github.com/r-forge/rmetrics
-	shallow = true
-	subdir = pkg/fImport
-	registered = true
-[submodule "FinTS"]
-	path = FinTS
-	url = https://github.com/r-forge/fints
-	shallow = true
-	subdir = pkg/FinTS
-	registered = true
-[submodule "FME"]
-	path = FME
-	url = https://github.com/r-forge/fme
-	shallow = true
-	subdir = pkg/FME
-	registered = true
-[submodule "fRegression"]
-	path = fRegression
-	url = https://github.com/r-forge/rmetrics
-	shallow = true
-	subdir = pkg/fRegression
-	registered = true
-[submodule "frontier"]
-	path = frontier
-	url = https://github.com/r-forge/frontier
-	shallow = true
-	subdir = pkg/frontier
-	registered = true
-[submodule "fUnitRoots"]
-	path = fUnitRoots
-	url = https://github.com/r-forge/rmetrics
-	shallow = true
-	subdir = pkg/fUnitRoots
-	registered = true
-[submodule "fwi.fbp"]
-	path = fwi.fbp
-	url = https://github.com/r-forge/fwi-fbp
-	shallow = true
-	subdir = pkg/fwi.fbp
-	registered = true
-[submodule "GeneralizedHyperbolic"]
-	path = GeneralizedHyperbolic
-	url = https://github.com/r-forge/rmetrics
-	shallow = true
-	subdir = pkg/GeneralizedHyperbolic
-	registered = true
-[submodule "genoPlotR"]
-	path = genoPlotR
-	url = https://github.com/r-forge/genoplotr
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "Gifi"]
-	path = Gifi
-	url = https://github.com/r-forge/psychor
-	shallow = true
-	subdir = pkg/Gifi
-	registered = true
-[submodule "GNE"]
-	path = GNE
-	url = https://github.com/r-forge/optimizer
-	shallow = true
-	subdir = pkg/GNE
-	registered = true
-[submodule "GPArotation"]
-	path = GPArotation
-	url = https://github.com/r-forge/optimizer
-	shallow = true
-	subdir = pkg/GPArotation
-	registered = true
-[submodule "gridGraphviz"]
-	path = gridGraphviz
-	url = https://github.com/r-forge/gridgraph
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "grImport"]
-	path = grImport
-	url = https://github.com/r-forge/grimport
-	shallow = true
-	subdir = pkg/grImport
-	registered = true
-[submodule "grImport2"]
-	path = grImport2
-	url = https://github.com/r-forge/grimport
-	shallow = true
-	subdir = pkg/grImport2
-	registered = true
-[submodule "HistogramTools"]
-	path = HistogramTools
-	url = https://github.com/r-forge/histogramtools
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "isotone"]
-	path = isotone
-	url = https://github.com/r-forge/psychor
-	shallow = true
-	subdir = pkg/isotone
-	registered = true
-[submodule "latticeExtra"]
-	path = latticeExtra
-	url = https://github.com/r-forge/latticeextra
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "linprog"]
-	path = linprog
-	url = https://github.com/r-forge/linprog
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "loa"]
-	path = loa
-	url = https://github.com/r-forge/loa
-	shallow = true
-	subdir = pkg/loa
-	registered = true
-[submodule "maptools"]
-	path = maptools
-	url = https://github.com/r-forge/maptools
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "Matrix"]
-	path = Matrix
-	url = https://github.com/r-forge/matrix
-	shallow = true
-	subdir = pkg/Matrix
-	registered = true
-[submodule "MatrixModels"]
-	path = MatrixModels
-	url = https://github.com/r-forge/matrix
-	shallow = true
-	subdir = pkg/MatrixModels
-	registered = true
-[submodule "meteo"]
-	path = meteo
-	url = https://github.com/r-forge/meteo
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "minqa"]
-	path = minqa
-	url = https://github.com/r-forge/optimizer
-	shallow = true
-	subdir = pkg/minqa
-	registered = true
-[submodule "mlogit"]
-	path = mlogit
-	url = https://github.com/r-forge/mlogit
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "mlt"]
-	path = mlt
-	url = https://github.com/r-forge/ctm
-	shallow = true
-	subdir = pkg/mlt
-	registered = true
-[submodule "mlt.docreg"]
-	path = mlt.docreg
-	url = https://github.com/r-forge/ctm
-	shallow = true
-	subdir = pkg/mlt.docreg
-	registered = true
-[submodule "modEvA"]
-	path = modEvA
-	url = https://github.com/r-forge/modeva
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "mpm"]
-	path = mpm
-	url = https://github.com/r-forge/mpm
-	shallow = true
-	subdir = pkg/mpm
-	registered = true
-[submodule "mpmi"]
-	path = mpmi
-	url = https://github.com/r-forge/mpmi
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "multcomp"]
-	path = multcomp
-	url = https://github.com/r-forge/multcomp
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "multiColl"]
-	path = multiColl
-	url = https://github.com/r-forge/colldetreat
-	shallow = true
-	subdir = pkg/multiColl
 	registered = true
 [submodule "mutossGUI"]
 	path = mutossGUI
@@ -471,77 +21,17 @@
 	shallow = true
 	subdir = pkg/mutossGUI
 	registered = true
-[submodule "mvtnorm"]
-	path = mvtnorm
-	url = https://github.com/r-forge/mvtnorm
+[submodule "CommonJavaJars"]
+	path = CommonJavaJars
+	url = https://github.com/r-forge/gsrmtp
 	shallow = true
-	subdir = pkg
+	subdir = pkg/CommonJavaJars
 	registered = true
-[submodule "numDeriv"]
-	path = numDeriv
-	url = https://github.com/r-forge/optimizer
+[submodule "car"]
+	path = car
+	url = https://github.com/r-forge/car
 	shallow = true
-	subdir = pkg/numDeriv
-	registered = true
-[submodule "oompaBase"]
-	path = oompaBase
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/oompaBase
-	registered = true
-[submodule "oompaData"]
-	path = oompaData
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/oompaData
-	registered = true
-[submodule "party"]
-	path = party
-	url = https://github.com/r-forge/party
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "patchDVI"]
-	path = patchDVI
-	url = https://github.com/r-forge/sweavesearch
-	shallow = true
-	subdir = pkg/patchDVI
-	registered = true
-[submodule "pcalg"]
-	path = pcalg
-	url = https://github.com/r-forge/pcalg
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "pedigreemm"]
-	path = pedigreemm
-	url = https://github.com/r-forge/pedigreemm
-	shallow = true
-	subdir = pkg/pedigreemm
-	registered = true
-[submodule "pems.utils"]
-	path = pems.utils
-	url = https://github.com/r-forge/pems
-	shallow = true
-	subdir = pkg/pems.utils
-	registered = true
-[submodule "plasma"]
-	path = plasma
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/plasma
-	registered = true
-[submodule "plugdensity"]
-	path = plugdensity
-	url = https://github.com/r-forge/curves-etc
-	shallow = true
-	subdir = pkg/plugdensity
-	registered = true
-[submodule "Polychrome"]
-	path = Polychrome
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/Polychrome
+	subdir = pkg/car
 	registered = true
 [submodule "polycor"]
 	path = polycor
@@ -549,57 +39,81 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "POT"]
-	path = POT
-	url = https://github.com/r-forge/pot
+[submodule "carData"]
+	path = carData
+	url = https://github.com/r-forge/car
 	shallow = true
-	subdir = pkg
+	subdir = pkg/carData
 	registered = true
-[submodule "PreProcess"]
-	path = PreProcess
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/PreProcess
-	registered = true
-[submodule "PST"]
-	path = PST
-	url = https://github.com/r-forge/pst
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "QSARdata"]
-	path = QSARdata
-	url = https://github.com/r-forge/qsardata
-	shallow = true
-	subdir = QSARdata
-	registered = true
-[submodule "qualV"]
-	path = qualV
-	url = https://github.com/r-forge/qualv
-	shallow = true
-	subdir = pkg/qualV
-	registered = true
-[submodule "R2MLwiN"]
-	path = R2MLwiN
-	url = https://github.com/r-forge/r2mlwin
-	shallow = true
-	subdir = R2MLwiN
-	registered = true
-[submodule "randtoolbox"]
-	path = randtoolbox
+[submodule "fRegression"]
+	path = fRegression
 	url = https://github.com/r-forge/rmetrics
 	shallow = true
-	subdir = pkg/randtoolbox
+	subdir = pkg/fRegression
 	registered = true
-[submodule "RandVar"]
-	path = RandVar
-	url = https://github.com/r-forge/robast
+[submodule "fExtremes"]
+	path = fExtremes
+	url = https://github.com/r-forge/rmetrics
 	shallow = true
-	subdir = pkg/RandVar
+	subdir = pkg/fExtremes
 	registered = true
-[submodule "Rcplex"]
-	path = Rcplex
-	url = https://github.com/r-forge/rcplex
+[submodule "meteo"]
+	path = meteo
+	url = https://github.com/r-forge/meteo
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "Eagle"]
+	path = Eagle
+	url = https://github.com/r-forge/eagle
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "genoPlotR"]
+	path = genoPlotR
+	url = https://github.com/r-forge/genoplotr
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "pems.utils"]
+	path = pems.utils
+	url = https://github.com/r-forge/pems
+	shallow = true
+	subdir = pkg/pems.utils
+	registered = true
+[submodule "loa"]
+	path = loa
+	url = https://github.com/r-forge/loa
+	shallow = true
+	subdir = pkg/loa
+	registered = true
+[submodule "pcalg"]
+	path = pcalg
+	url = https://github.com/r-forge/pcalg
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "cffdrs"]
+	path = cffdrs
+	url = https://github.com/r-forge/cffdrs
+	shallow = true
+	subdir = pkg/cffdrs
+	registered = true
+[submodule "latticeExtra"]
+	path = latticeExtra
+	url = https://github.com/r-forge/latticeextra
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "truncreg"]
+	path = truncreg
+	url = https://github.com/r-forge/truncreg
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "mlogit"]
+	path = mlogit
+	url = https://github.com/r-forge/mlogit
 	shallow = true
 	subdir = pkg
 	registered = true
@@ -615,119 +129,29 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "Rglpk"]
-	path = Rglpk
-	url = https://github.com/r-forge/rglp
+[submodule "spgwr"]
+	path = spgwr
+	url = https://github.com/r-forge/rspatial
 	shallow = true
-	subdir = pkg/Rglpk
+	subdir = pkg/spgwr
 	registered = true
-[submodule "RHRV"]
-	path = RHRV
-	url = https://github.com/r-forge/rhrv
+[submodule "maptools"]
+	path = maptools
+	url = https://github.com/r-forge/maptools
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "Rmpfr"]
-	path = Rmpfr
-	url = https://github.com/r-forge/rmpfr
+[submodule "mpmi"]
+	path = mpmi
+	url = https://github.com/r-forge/mpmi
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "RNetLogo"]
-	path = RNetLogo
-	url = https://github.com/r-forge/rnetlogo
+[submodule "skellam"]
+	path = skellam
+	url = https://github.com/r-forge/healthqueues
 	shallow = true
-	subdir = pkg/RNetLogo
-	registered = true
-[submodule "rNOMADS"]
-	path = rNOMADS
-	url = https://github.com/r-forge/rnomads
-	shallow = true
-	subdir = pkg/rNOMADS
-	registered = true
-[submodule "RobAStBase"]
-	path = RobAStBase
-	url = https://github.com/r-forge/robast
-	shallow = true
-	subdir = pkg/RobAStBase
-	registered = true
-[submodule "RobAStRDA"]
-	path = RobAStRDA
-	url = https://github.com/r-forge/robast
-	shallow = true
-	subdir = pkg/RobAStRDA
-	registered = true
-[submodule "RobExtremes"]
-	path = RobExtremes
-	url = https://github.com/r-forge/robast
-	shallow = true
-	subdir = pkg/RobExtremes
-	registered = true
-[submodule "RobLox"]
-	path = RobLox
-	url = https://github.com/r-forge/robast
-	shallow = true
-	subdir = pkg/RobLox
-	registered = true
-[submodule "RobLoxBioC"]
-	path = RobLoxBioC
-	url = https://github.com/r-forge/robast
-	shallow = true
-	subdir = pkg/RobLoxBioC
-	registered = true
-[submodule "RobRex"]
-	path = RobRex
-	url = https://github.com/r-forge/robast
-	shallow = true
-	subdir = pkg/RobRex
-	registered = true
-[submodule "robustbase"]
-	path = robustbase
-	url = https://github.com/r-forge/robustbase
-	shallow = true
-	subdir = pkg/robustbase
-	registered = true
-[submodule "ROI"]
-	path = ROI
-	url = https://github.com/r-forge/roi
-	shallow = true
-	subdir = pkg/ROI
-	registered = true
-[submodule "ROI.models.miplib"]
-	path = ROI.models.miplib
-	url = https://github.com/r-forge/roi
-	shallow = true
-	subdir = pkg/ROI.models.miplib
-	registered = true
-[submodule "ROI.plugin.alabama"]
-	path = ROI.plugin.alabama
-	url = https://github.com/r-forge/roi
-	shallow = true
-	subdir = pkg/ROI.plugin.alabama
-	registered = true
-[submodule "ROI.plugin.cplex"]
-	path = ROI.plugin.cplex
-	url = https://github.com/r-forge/roi
-	shallow = true
-	subdir = pkg/ROI.plugin.cplex
-	registered = true
-[submodule "ROI.plugin.deoptim"]
-	path = ROI.plugin.deoptim
-	url = https://github.com/r-forge/roi
-	shallow = true
-	subdir = pkg/ROI.plugin.deoptim
-	registered = true
-[submodule "ROI.plugin.ecos"]
-	path = ROI.plugin.ecos
-	url = https://github.com/r-forge/roi
-	shallow = true
-	subdir = pkg/ROI.plugin.ecos
-	registered = true
-[submodule "ROI.plugin.glpk"]
-	path = ROI.plugin.glpk
-	url = https://github.com/r-forge/roi
-	shallow = true
-	subdir = pkg/ROI.plugin.glpk
+	subdir = pkg/skellam
 	registered = true
 [submodule "ROI.plugin.ipop"]
 	path = ROI.plugin.ipop
@@ -741,11 +165,11 @@
 	shallow = true
 	subdir = pkg/ROI.plugin.msbinlp
 	registered = true
-[submodule "ROI.plugin.neos"]
-	path = ROI.plugin.neos
+[submodule "ROI.plugin.scs"]
+	path = ROI.plugin.scs
 	url = https://github.com/r-forge/roi
 	shallow = true
-	subdir = pkg/ROI.plugin.neos
+	subdir = pkg/ROI.plugin.scs
 	registered = true
 [submodule "ROI.plugin.nloptr"]
 	path = ROI.plugin.nloptr
@@ -753,17 +177,11 @@
 	shallow = true
 	subdir = pkg/ROI.plugin.nloptr
 	registered = true
-[submodule "ROI.plugin.optimx"]
-	path = ROI.plugin.optimx
+[submodule "ROI.plugin.neos"]
+	path = ROI.plugin.neos
 	url = https://github.com/r-forge/roi
 	shallow = true
-	subdir = pkg/ROI.plugin.optimx
-	registered = true
-[submodule "ROI.plugin.osqp"]
-	path = ROI.plugin.osqp
-	url = https://github.com/r-forge/roi
-	shallow = true
-	subdir = pkg/ROI.plugin.osqp
+	subdir = pkg/ROI.plugin.neos
 	registered = true
 [submodule "ROI.plugin.qpoases"]
 	path = ROI.plugin.qpoases
@@ -771,215 +189,53 @@
 	shallow = true
 	subdir = pkg/ROI.plugin.qpoases
 	registered = true
-[submodule "ROI.plugin.quadprog"]
-	path = ROI.plugin.quadprog
+[submodule "ROI.plugin.optimx"]
+	path = ROI.plugin.optimx
 	url = https://github.com/r-forge/roi
 	shallow = true
-	subdir = pkg/ROI.plugin.quadprog
+	subdir = pkg/ROI.plugin.optimx
 	registered = true
-[submodule "ROI.plugin.scs"]
-	path = ROI.plugin.scs
+[submodule "ROI.models.miplib"]
+	path = ROI.models.miplib
 	url = https://github.com/r-forge/roi
 	shallow = true
-	subdir = pkg/ROI.plugin.scs
+	subdir = pkg/ROI.models.miplib
 	registered = true
-[submodule "ROI.plugin.symphony"]
-	path = ROI.plugin.symphony
+[submodule "ROI.plugin.ecos"]
+	path = ROI.plugin.ecos
 	url = https://github.com/r-forge/roi
 	shallow = true
-	subdir = pkg/ROI.plugin.symphony
+	subdir = pkg/ROI.plugin.ecos
 	registered = true
-[submodule "ROptEst"]
-	path = ROptEst
-	url = https://github.com/r-forge/robast
+[submodule "ROI.plugin.osqp"]
+	path = ROI.plugin.osqp
+	url = https://github.com/r-forge/roi
 	shallow = true
-	subdir = pkg/ROptEst
+	subdir = pkg/ROI.plugin.osqp
 	registered = true
-[submodule "ROptEstOld"]
-	path = ROptEstOld
-	url = https://github.com/r-forge/robast
+[submodule "ROI.plugin.alabama"]
+	path = ROI.plugin.alabama
+	url = https://github.com/r-forge/roi
 	shallow = true
-	subdir = pkg/ROptEstOld
+	subdir = pkg/ROI.plugin.alabama
 	registered = true
-[submodule "ROptRegTS"]
-	path = ROptRegTS
-	url = https://github.com/r-forge/robast
+[submodule "ROI.plugin.deoptim"]
+	path = ROI.plugin.deoptim
+	url = https://github.com/r-forge/roi
 	shallow = true
-	subdir = pkg/ROptRegTS
+	subdir = pkg/ROI.plugin.deoptim
 	registered = true
-[submodule "Rsymphony"]
-	path = Rsymphony
-	url = https://github.com/r-forge/rsymphony
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "rvif"]
-	path = rvif
-	url = https://github.com/r-forge/colldetreat
-	shallow = true
-	subdir = pkg/rvif
-	registered = true
-[submodule "Rwave"]
-	path = Rwave
-	url = https://github.com/r-forge/rwave
+[submodule "modEvA"]
+	path = modEvA
+	url = https://github.com/r-forge/modeva
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "sandwich"]
-	path = sandwich
-	url = https://github.com/r-forge/sandwich
+[submodule "BiplotGUI"]
+	path = BiplotGUI
+	url = https://github.com/r-forge/biplotgui
 	shallow = true
 	subdir = pkg
-	registered = true
-[submodule "setRNG"]
-	path = setRNG
-	url = https://github.com/r-forge/distr
-	shallow = true
-	subdir = pkg/setRNG
-	registered = true
-[submodule "sirad"]
-	path = sirad
-	url = https://github.com/r-forge/sirad
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "skellam"]
-	path = skellam
-	url = https://github.com/r-forge/healthqueues
-	shallow = true
-	subdir = pkg/skellam
-	registered = true
-[submodule "SkewHyperbolic"]
-	path = SkewHyperbolic
-	url = https://github.com/r-forge/rmetrics
-	shallow = true
-	subdir = pkg/SkewHyperbolic
-	registered = true
-[submodule "Sleuth2"]
-	path = Sleuth2
-	url = https://github.com/r-forge/sleuth2
-	shallow = true
-	subdir = pkg/Sleuth2
-	registered = true
-[submodule "Sleuth3"]
-	path = Sleuth3
-	url = https://github.com/r-forge/sleuth2
-	shallow = true
-	subdir = pkg/Sleuth3
-	registered = true
-[submodule "softclassval"]
-	path = softclassval
-	url = https://github.com/r-forge/softclassval
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "SpatialExtremes"]
-	path = SpatialExtremes
-	url = https://github.com/r-forge/spatialextremes
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "spgwr"]
-	path = spgwr
-	url = https://github.com/r-forge/rspatial
-	shallow = true
-	subdir = pkg/spgwr
-	registered = true
-[submodule "sse"]
-	path = sse
-	url = https://github.com/r-forge/power
-	shallow = true
-	subdir = pkg/sse
-	registered = true
-[submodule "stops"]
-	path = stops
-	url = https://github.com/r-forge/stops
-	shallow = true
-	subdir = pkg/stops
-	registered = true
-[submodule "surveillance"]
-	path = surveillance
-	url = https://github.com/r-forge/surveillance
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "tables"]
-	path = tables
-	url = https://github.com/r-forge/tables
-	shallow = true
-	subdir = pkg/tables
-	registered = true
-[submodule "TailRank"]
-	path = TailRank
-	url = https://github.com/r-forge/oompa
-	shallow = true
-	subdir = pkg/TailRank
-	registered = true
-[submodule "tbm"]
-	path = tbm
-	url = https://github.com/r-forge/ctm
-	shallow = true
-	subdir = pkg/tbm
-	registered = true
-[submodule "tfplot"]
-	path = tfplot
-	url = https://github.com/r-forge/tsanalysis
-	shallow = true
-	subdir = pkg/tfplot
-	registered = true
-[submodule "tframe"]
-	path = tframe
-	url = https://github.com/r-forge/tsanalysis
-	shallow = true
-	subdir = pkg/tframe
-	registered = true
-[submodule "tframePlus"]
-	path = tframePlus
-	url = https://github.com/r-forge/tsanalysis
-	shallow = true
-	subdir = pkg/tframePlus
-	registered = true
-[submodule "tm"]
-	path = tm
-	url = https://github.com/r-forge/tm
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "tm.plugin.alceste"]
-	path = tm.plugin.alceste
-	url = https://github.com/r-forge/r-temis
-	shallow = true
-	subdir = pkg/tm.plugin.alceste
-	registered = true
-[submodule "tm.plugin.europresse"]
-	path = tm.plugin.europresse
-	url = https://github.com/r-forge/r-temis
-	shallow = true
-	subdir = pkg/tm.plugin.europresse
-	registered = true
-[submodule "TopKLists"]
-	path = TopKLists
-	url = https://github.com/r-forge/topklists
-	shallow = true
-	subdir = pkg
-	registered = true
-[submodule "tram"]
-	path = tram
-	url = https://github.com/r-forge/ctm
-	shallow = true
-	subdir = pkg/tram
-	registered = true
-[submodule "tramME"]
-	path = tramME
-	url = https://github.com/r-forge/ctm
-	shallow = true
-	subdir = pkg/tramME
-	registered = true
-[submodule "tramnet"]
-	path = tramnet
-	url = https://github.com/r-forge/ctm
-	shallow = true
-	subdir = pkg/tramnet
 	registered = true
 [submodule "tramvs"]
 	path = tramvs
@@ -987,27 +243,279 @@
 	shallow = true
 	subdir = pkg/tramvs
 	registered = true
-[submodule "trtf"]
-	path = trtf
-	url = https://github.com/r-forge/ctm
-	shallow = true
-	subdir = pkg/trtf
-	registered = true
-[submodule "truncreg"]
-	path = truncreg
-	url = https://github.com/r-forge/truncreg
+[submodule "PST"]
+	path = PST
+	url = https://github.com/r-forge/pst
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "tscount"]
-	path = tscount
-	url = https://github.com/r-forge/tscount
+[submodule "EasyABC"]
+	path = EasyABC
+	url = https://github.com/r-forge/easyabc
 	shallow = true
 	subdir = pkg
+	registered = true
+[submodule "grImport"]
+	path = grImport
+	url = https://github.com/r-forge/grimport
+	shallow = true
+	subdir = pkg/grImport
+	registered = true
+[submodule "gridGraphviz"]
+	path = gridGraphviz
+	url = https://github.com/r-forge/gridgraph
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "isotone"]
+	path = isotone
+	url = https://github.com/r-forge/psychor
+	shallow = true
+	subdir = pkg/isotone
+	registered = true
+[submodule "WRS2"]
+	path = WRS2
+	url = https://github.com/r-forge/psychor
+	shallow = true
+	subdir = pkg/WRS2
+	registered = true
+[submodule "Gifi"]
+	path = Gifi
+	url = https://github.com/r-forge/psychor
+	shallow = true
+	subdir = pkg/Gifi
+	registered = true
+[submodule "aspect"]
+	path = aspect
+	url = https://github.com/r-forge/psychor
+	shallow = true
+	subdir = pkg/aspect
+	registered = true
+[submodule "anacor"]
+	path = anacor
+	url = https://github.com/r-forge/psychor
+	shallow = true
+	subdir = pkg/anacor
+	registered = true
+[submodule "tfplot"]
+	path = tfplot
+	url = https://github.com/r-forge/tsanalysis
+	shallow = true
+	subdir = pkg/tfplot
+	registered = true
+[submodule "EvalEst"]
+	path = EvalEst
+	url = https://github.com/r-forge/tsanalysis
+	shallow = true
+	subdir = pkg/EvalEst
+	registered = true
+[submodule "dse"]
+	path = dse
+	url = https://github.com/r-forge/tsanalysis
+	shallow = true
+	subdir = pkg/dse
+	registered = true
+[submodule "numDeriv"]
+	path = numDeriv
+	url = https://github.com/r-forge/optimizer
+	shallow = true
+	subdir = pkg/numDeriv
+	registered = true
+[submodule "tframePlus"]
+	path = tframePlus
+	url = https://github.com/r-forge/tsanalysis
+	shallow = true
+	subdir = pkg/tframePlus
+	registered = true
+[submodule "tframe"]
+	path = tframe
+	url = https://github.com/r-forge/tsanalysis
+	shallow = true
+	subdir = pkg/tframe
+	registered = true
+[submodule "setRNG"]
+	path = setRNG
+	url = https://github.com/r-forge/distr
+	shallow = true
+	subdir = pkg/setRNG
+	registered = true
+[submodule "tm"]
+	path = tm
+	url = https://github.com/r-forge/tm
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "fwi.fbp"]
+	path = fwi.fbp
+	url = https://github.com/r-forge/fwi-fbp
+	shallow = true
+	subdir = pkg/fwi.fbp
+	registered = true
+[submodule "wordspace"]
+	path = wordspace
+	url = https://github.com/r-forge/wordspace
+	shallow = true
+	subdir = pkg/wordspace
+	registered = true
+[submodule "corpora"]
+	path = corpora
+	url = https://github.com/r-forge/sigil
+	shallow = true
+	subdir = pkg/corpora
+	registered = true
+[submodule "GPArotation"]
+	path = GPArotation
+	url = https://github.com/r-forge/optimizer
+	shallow = true
+	subdir = pkg/GPArotation
+	registered = true
+[submodule "frontier"]
+	path = frontier
+	url = https://github.com/r-forge/frontier
+	shallow = true
+	subdir = pkg/frontier
+	registered = true
+[submodule "linprog"]
+	path = linprog
+	url = https://github.com/r-forge/linprog
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "censReg"]
+	path = censReg
+	url = https://github.com/r-forge/sampleselection
+	shallow = true
+	subdir = pkg/censReg
 	registered = true
 [submodule "urbin"]
 	path = urbin
 	url = https://github.com/r-forge/urbin
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "tm.plugin.europresse"]
+	path = tm.plugin.europresse
+	url = https://github.com/r-forge/r-temis
+	shallow = true
+	subdir = pkg/tm.plugin.europresse
+	registered = true
+[submodule "tm.plugin.alceste"]
+	path = tm.plugin.alceste
+	url = https://github.com/r-forge/r-temis
+	shallow = true
+	subdir = pkg/tm.plugin.alceste
+	registered = true
+[submodule "randtoolbox"]
+	path = randtoolbox
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/randtoolbox
+	registered = true
+[submodule "GNE"]
+	path = GNE
+	url = https://github.com/r-forge/optimizer
+	shallow = true
+	subdir = pkg/GNE
+	registered = true
+[submodule "supraHex"]
+	path = supraHex
+	url = https://github.com/r-forge/suprahex
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "TopKLists"]
+	path = TopKLists
+	url = https://github.com/r-forge/topklists
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "R2MLwiN"]
+	path = R2MLwiN
+	url = https://github.com/r-forge/r2mlwin
+	shallow = true
+	subdir = R2MLwiN
+	registered = true
+[submodule "QSARdata"]
+	path = QSARdata
+	url = https://github.com/r-forge/qsardata
+	shallow = true
+	subdir = QSARdata
+	registered = true
+[submodule "FFD"]
+	path = FFD
+	url = https://github.com/r-forge/ffd
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "FME"]
+	path = FME
+	url = https://github.com/r-forge/fme
+	shallow = true
+	subdir = pkg/FME
+	registered = true
+[submodule "tramnet"]
+	path = tramnet
+	url = https://github.com/r-forge/ctm
+	shallow = true
+	subdir = pkg/tramnet
+	registered = true
+[submodule "MatrixModels"]
+	path = MatrixModels
+	url = https://github.com/r-forge/matrix
+	shallow = true
+	subdir = pkg/MatrixModels
+	registered = true
+[submodule "Matrix"]
+	path = Matrix
+	url = https://github.com/r-forge/matrix
+	shallow = true
+	subdir = pkg/Matrix
+	registered = true
+[submodule "rNOMADS"]
+	path = rNOMADS
+	url = https://github.com/r-forge/rnomads
+	shallow = true
+	subdir = pkg/rNOMADS
+	registered = true
+[submodule "mlt"]
+	path = mlt
+	url = https://github.com/r-forge/ctm
+	shallow = true
+	subdir = pkg/mlt
+	registered = true
+[submodule "mvtnorm"]
+	path = mvtnorm
+	url = https://github.com/r-forge/mvtnorm
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "coin"]
+	path = coin
+	url = https://github.com/r-forge/coin
+	shallow = true
+	subdir = pkg/coin
+	registered = true
+[submodule "basefun"]
+	path = basefun
+	url = https://github.com/r-forge/ctm
+	shallow = true
+	subdir = pkg/basefun
+	registered = true
+[submodule "tram"]
+	path = tram
+	url = https://github.com/r-forge/ctm
+	shallow = true
+	subdir = pkg/tram
+	registered = true
+[submodule "mlt.docreg"]
+	path = mlt.docreg
+	url = https://github.com/r-forge/ctm
+	shallow = true
+	subdir = pkg/mlt.docreg
+	registered = true
+[submodule "party"]
+	path = party
+	url = https://github.com/r-forge/party
 	shallow = true
 	subdir = pkg
 	registered = true
@@ -1017,27 +525,111 @@
 	shallow = true
 	subdir = pkg/variables
 	registered = true
-[submodule "VarSelLCM"]
-	path = VarSelLCM
-	url = https://github.com/r-forge/varsellcm
+[submodule "multcomp"]
+	path = multcomp
+	url = https://github.com/r-forge/multcomp
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "wordspace"]
-	path = wordspace
-	url = https://github.com/r-forge/wordspace
+[submodule "trtf"]
+	path = trtf
+	url = https://github.com/r-forge/ctm
 	shallow = true
-	subdir = pkg/wordspace
+	subdir = pkg/trtf
 	registered = true
-[submodule "WRS2"]
-	path = WRS2
-	url = https://github.com/r-forge/psychor
+[submodule "tbm"]
+	path = tbm
+	url = https://github.com/r-forge/ctm
 	shallow = true
-	subdir = pkg/WRS2
+	subdir = pkg/tbm
 	registered = true
-[submodule "xtable"]
-	path = xtable
-	url = https://github.com/r-forge/xtable
+[submodule "Sleuth3"]
+	path = Sleuth3
+	url = https://github.com/r-forge/sleuth2
+	shallow = true
+	subdir = pkg/Sleuth3
+	registered = true
+[submodule "Sleuth2"]
+	path = Sleuth2
+	url = https://github.com/r-forge/sleuth2
+	shallow = true
+	subdir = pkg/Sleuth2
+	registered = true
+[submodule "expm"]
+	path = expm
+	url = https://github.com/r-forge/expm
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "DPQ"]
+	path = DPQ
+	url = https://github.com/r-forge/specfun
+	shallow = true
+	subdir = pkg/DPQ
+	registered = true
+[submodule "Bessel"]
+	path = Bessel
+	url = https://github.com/r-forge/specfun
+	shallow = true
+	subdir = pkg/Bessel
+	registered = true
+[submodule "robustbase"]
+	path = robustbase
+	url = https://github.com/r-forge/robustbase
+	shallow = true
+	subdir = pkg/robustbase
+	registered = true
+[submodule "cobs"]
+	path = cobs
+	url = https://github.com/r-forge/curves-etc
+	shallow = true
+	subdir = pkg/cobs
+	registered = true
+[submodule "plugdensity"]
+	path = plugdensity
+	url = https://github.com/r-forge/curves-etc
+	shallow = true
+	subdir = pkg/plugdensity
+	registered = true
+[submodule "copula"]
+	path = copula
+	url = https://github.com/r-forge/copula
+	shallow = true
+	subdir = pkg/copula
+	registered = true
+[submodule "Rmpfr"]
+	path = Rmpfr
+	url = https://github.com/r-forge/rmpfr
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "POT"]
+	path = POT
+	url = https://github.com/r-forge/pot
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "cardidates"]
+	path = cardidates
+	url = https://github.com/r-forge/cardidates
+	shallow = true
+	subdir = pkg/cardidates
+	registered = true
+[submodule "qualV"]
+	path = qualV
+	url = https://github.com/r-forge/qualv
+	shallow = true
+	subdir = pkg/qualV
+	registered = true
+[submodule "deSolve"]
+	path = deSolve
+	url = https://github.com/r-forge/desolve
+	shallow = true
+	subdir = pkg/deSolve
+	registered = true
+[submodule "agrmt"]
+	path = agrmt
+	url = https://github.com/r-forge/agrmt
 	shallow = true
 	subdir = pkg
 	registered = true
@@ -1047,15 +639,417 @@
 	shallow = true
 	subdir = pkg/zipfR
 	registered = true
+[submodule "VarSelLCM"]
+	path = VarSelLCM
+	url = https://github.com/r-forge/varsellcm
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "mpm"]
+	path = mpm
+	url = https://github.com/r-forge/mpm
+	shallow = true
+	subdir = pkg/mpm
+	registered = true
+[submodule "rvif"]
+	path = rvif
+	url = https://github.com/r-forge/colldetreat
+	shallow = true
+	subdir = pkg/rvif
+	registered = true
+[submodule "multiColl"]
+	path = multiColl
+	url = https://github.com/r-forge/colldetreat
+	shallow = true
+	subdir = pkg/multiColl
+	registered = true
+[submodule "ROI.plugin.quadprog"]
+	path = ROI.plugin.quadprog
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.quadprog
+	registered = true
+[submodule "ROI.plugin.cplex"]
+	path = ROI.plugin.cplex
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.cplex
+	registered = true
+[submodule "Rglpk"]
+	path = Rglpk
+	url = https://github.com/r-forge/rglp
+	shallow = true
+	subdir = pkg/Rglpk
+	registered = true
+[submodule "ROI.plugin.glpk"]
+	path = ROI.plugin.glpk
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.glpk
+	registered = true
+[submodule "Rcplex"]
+	path = Rcplex
+	url = https://github.com/r-forge/rcplex
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "ROI"]
+	path = ROI
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI
+	registered = true
+[submodule "ROI.plugin.symphony"]
+	path = ROI.plugin.symphony
+	url = https://github.com/r-forge/roi
+	shallow = true
+	subdir = pkg/ROI.plugin.symphony
+	registered = true
+[submodule "tramME"]
+	path = tramME
+	url = https://github.com/r-forge/ctm
+	shallow = true
+	subdir = pkg/tramME
+	registered = true
+[submodule "grImport2"]
+	path = grImport2
+	url = https://github.com/r-forge/grimport
+	shallow = true
+	subdir = pkg/grImport2
+	registered = true
+[submodule "RHRV"]
+	path = RHRV
+	url = https://github.com/r-forge/rhrv
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "HistogramTools"]
+	path = HistogramTools
+	url = https://github.com/r-forge/histogramtools
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "RobLox"]
+	path = RobLox
+	url = https://github.com/r-forge/robast
+	shallow = true
+	subdir = pkg/RobLox
+	registered = true
+[submodule "distrEx"]
+	path = distrEx
+	url = https://github.com/r-forge/distr
+	shallow = true
+	subdir = pkg/distrEx
+	registered = true
+[submodule "RandVar"]
+	path = RandVar
+	url = https://github.com/r-forge/robast
+	shallow = true
+	subdir = pkg/RandVar
+	registered = true
+[submodule "ROptEst"]
+	path = ROptEst
+	url = https://github.com/r-forge/robast
+	shallow = true
+	subdir = pkg/ROptEst
+	registered = true
+[submodule "RobAStBase"]
+	path = RobAStBase
+	url = https://github.com/r-forge/robast
+	shallow = true
+	subdir = pkg/RobAStBase
+	registered = true
+[submodule "RobLoxBioC"]
+	path = RobLoxBioC
+	url = https://github.com/r-forge/robast
+	shallow = true
+	subdir = pkg/RobLoxBioC
+	registered = true
+[submodule "ROptRegTS"]
+	path = ROptRegTS
+	url = https://github.com/r-forge/robast
+	shallow = true
+	subdir = pkg/ROptRegTS
+	registered = true
+[submodule "ROptEstOld"]
+	path = ROptEstOld
+	url = https://github.com/r-forge/robast
+	shallow = true
+	subdir = pkg/ROptEstOld
+	registered = true
+[submodule "RobRex"]
+	path = RobRex
+	url = https://github.com/r-forge/robast
+	shallow = true
+	subdir = pkg/RobRex
+	registered = true
+[submodule "sse"]
+	path = sse
+	url = https://github.com/r-forge/power
+	shallow = true
+	subdir = pkg/sse
+	registered = true
+[submodule "distrDoc"]
+	path = distrDoc
+	url = https://github.com/r-forge/distr
+	shallow = true
+	subdir = pkg/distrDoc
+	registered = true
+[submodule "distrTeach"]
+	path = distrTeach
+	url = https://github.com/r-forge/distr
+	shallow = true
+	subdir = pkg/distrTeach
+	registered = true
+[submodule "RobAStRDA"]
+	path = RobAStRDA
+	url = https://github.com/r-forge/robast
+	shallow = true
+	subdir = pkg/RobAStRDA
+	registered = true
+[submodule "distr"]
+	path = distr
+	url = https://github.com/r-forge/distr
+	shallow = true
+	subdir = pkg/distr
+	registered = true
+[submodule "distrEllipse"]
+	path = distrEllipse
+	url = https://github.com/r-forge/distr
+	shallow = true
+	subdir = pkg/distrEllipse
+	registered = true
+[submodule "distrTEst"]
+	path = distrTEst
+	url = https://github.com/r-forge/distr
+	shallow = true
+	subdir = pkg/distrTEst
+	registered = true
+[submodule "distrSim"]
+	path = distrSim
+	url = https://github.com/r-forge/distr
+	shallow = true
+	subdir = pkg/distrSim
+	registered = true
+[submodule "RobExtremes"]
+	path = RobExtremes
+	url = https://github.com/r-forge/robast
+	shallow = true
+	subdir = pkg/RobExtremes
+	registered = true
+[submodule "distrRmetrics"]
+	path = distrRmetrics
+	url = https://github.com/r-forge/distr
+	shallow = true
+	subdir = pkg/distrRmetrics
+	registered = true
+[submodule "distrMod"]
+	path = distrMod
+	url = https://github.com/r-forge/distr
+	shallow = true
+	subdir = pkg/distrMod
+	registered = true
+[submodule "copulaData"]
+	path = copulaData
+	url = https://github.com/r-forge/copula
+	shallow = true
+	subdir = pkg/copulaData
+	registered = true
+[submodule "RNetLogo"]
+	path = RNetLogo
+	url = https://github.com/r-forge/rnetlogo
+	shallow = true
+	subdir = pkg/RNetLogo
+	registered = true
+[submodule "tscount"]
+	path = tscount
+	url = https://github.com/r-forge/tscount
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "sirad"]
+	path = sirad
+	url = https://github.com/r-forge/sirad
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "SpatialExtremes"]
+	path = SpatialExtremes
+	url = https://github.com/r-forge/spatialextremes
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "Rwave"]
+	path = Rwave
+	url = https://github.com/r-forge/rwave
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "surveillance"]
+	path = surveillance
+	url = https://github.com/r-forge/surveillance
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "CHNOSZ"]
+	path = CHNOSZ
+	url = https://github.com/r-forge/chnosz
+	shallow = true
+	subdir = pkg/CHNOSZ
+	registered = true
+[submodule "oompaBase"]
+	path = oompaBase
+	url = https://github.com/r-forge/oompa
+	shallow = true
+	subdir = pkg/oompaBase
+	registered = true
+[submodule "oompaData"]
+	path = oompaData
+	url = https://github.com/r-forge/oompa
+	shallow = true
+	subdir = pkg/oompaData
+	registered = true
+[submodule "ClassComparison"]
+	path = ClassComparison
+	url = https://github.com/r-forge/oompa
+	shallow = true
+	subdir = pkg/ClassComparison
+	registered = true
+[submodule "ClassDiscovery"]
+	path = ClassDiscovery
+	url = https://github.com/r-forge/oompa
+	shallow = true
+	subdir = pkg/ClassDiscovery
+	registered = true
+[submodule "plasma"]
+	path = plasma
+	url = https://github.com/r-forge/oompa
+	shallow = true
+	subdir = pkg/plasma
+	registered = true
+[submodule "Polychrome"]
+	path = Polychrome
+	url = https://github.com/r-forge/oompa
+	shallow = true
+	subdir = pkg/Polychrome
+	registered = true
+[submodule "PreProcess"]
+	path = PreProcess
+	url = https://github.com/r-forge/oompa
+	shallow = true
+	subdir = pkg/PreProcess
+	registered = true
+[submodule "TailRank"]
+	path = TailRank
+	url = https://github.com/r-forge/oompa
+	shallow = true
+	subdir = pkg/TailRank
+	registered = true
+[submodule "FinTS"]
+	path = FinTS
+	url = https://github.com/r-forge/fints
+	shallow = true
+	subdir = pkg/FinTS
+	registered = true
+[submodule "fUnitRoots"]
+	path = fUnitRoots
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/fUnitRoots
+	registered = true
+[submodule "fGarch"]
+	path = fGarch
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/fGarch
+	registered = true
+[submodule "fImport"]
+	path = fImport
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/fImport
+	registered = true
+[submodule "minqa"]
+	path = minqa
+	url = https://github.com/r-forge/optimizer
+	shallow = true
+	subdir = pkg/minqa
+	registered = true
+[submodule "xtable"]
+	path = xtable
+	url = https://github.com/r-forge/xtable
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "SkewHyperbolic"]
+	path = SkewHyperbolic
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/SkewHyperbolic
+	registered = true
+[submodule "GeneralizedHyperbolic"]
+	path = GeneralizedHyperbolic
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/GeneralizedHyperbolic
+	registered = true
+[submodule "colorspace"]
+	path = colorspace
+	url = https://github.com/r-forge/colorspace
+	shallow = true
+	subdir = pkg/colorspace
+	registered = true
 [submodule "zoo"]
 	path = zoo
 	url = https://github.com/r-forge/zoo
 	shallow = true
 	subdir = pkg/zoo
 	registered = true
-[submodule "supraHex"]
-	path = supraHex
-	url = https://github.com/r-forge/suprahex
+[submodule "sandwich"]
+	path = sandwich
+	url = https://github.com/r-forge/sandwich
 	shallow = true
 	subdir = pkg
+	registered = true
+[submodule "Rsymphony"]
+	path = Rsymphony
+	url = https://github.com/r-forge/rsymphony
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "pedigreemm"]
+	path = pedigreemm
+	url = https://github.com/r-forge/pedigreemm
+	shallow = true
+	subdir = pkg/pedigreemm
+	registered = true
+[submodule "stops"]
+	path = stops
+	url = https://github.com/r-forge/stops
+	shallow = true
+	subdir = pkg/stops
+	registered = true
+[submodule "cops"]
+	path = cops
+	url = https://github.com/r-forge/stops
+	shallow = true
+	subdir = pkg/cops
+	registered = true
+[submodule "cordillera"]
+	path = cordillera
+	url = https://github.com/r-forge/stops
+	shallow = true
+	subdir = pkg/cordillera
+	registered = true
+[submodule "tables"]
+	path = tables
+	url = https://github.com/r-forge/tables
+	shallow = true
+	subdir = pkg/tables
+	registered = true
+[submodule "cotram"]
+	path = cotram
+	url = https://github.com/r-forge/ctm
+	shallow = true
+	subdir = pkg/cotram
 	registered = true
