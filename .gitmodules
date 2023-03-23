@@ -903,6 +903,12 @@
 	shallow = true
 	subdir = pkg
 	registered = true
+[submodule "systemfit"]
+	path = systemfit
+	url = https://github.com/r-forge/systemfit
+	shallow = true
+	subdir = pkg
+	registered = true
 [submodule "tables"]
 	path = tables
 	url = https://github.com/r-forge/tables
