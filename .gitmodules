@@ -501,6 +501,12 @@
 	shallow = true
 	subdir = pkg
 	registered = true
+[submodule "partykit"]
+	path = partykit
+	url = https://github.com/r-forge/partykit
+	shallow = true
+	subdir = pkg/partykit
+	registered = true
 [submodule "pcalg"]
 	path = pcalg
 	url = https://github.com/r-forge/pcalg
