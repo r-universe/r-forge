@@ -249,6 +249,12 @@
 	shallow = true
 	subdir = pkg
 	registered = true
+[submodule "fAssets"]
+	path = fAssets
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/fAssets
+	registered = true
 [submodule "fExtremes"]
 	path = fExtremes
 	url = https://github.com/r-forge/rmetrics
