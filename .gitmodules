@@ -291,6 +291,12 @@
 	shallow = true
 	subdir = pkg/FME
 	registered = true
+[submodule "fPortfolio"]
+	path = fPortfolio
+	url = https://github.com/r-forge/rmetrics
+	shallow = true
+	subdir = pkg/fPortfolio
+	registered = true
 [submodule "fRegression"]
 	path = fRegression
 	url = https://github.com/r-forge/rmetrics
