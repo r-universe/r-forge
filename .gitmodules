@@ -933,12 +933,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "tables"]
-	path = tables
-	url = https://github.com/r-forge/tables
-	shallow = true
-	subdir = pkg/tables
-	registered = true
 [submodule "TailRank"]
 	path = TailRank
 	url = https://github.com/r-forge/oompa
