@@ -891,12 +891,6 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "spgwr"]
-	path = spgwr
-	url = https://github.com/r-forge/rspatial
-	shallow = true
-	subdir = pkg/spgwr
-	registered = true
 [submodule "sse"]
 	path = sse
 	url = https://github.com/r-forge/power
