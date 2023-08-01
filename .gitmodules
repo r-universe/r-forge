@@ -2,6 +2,278 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Bessel"]
+	path = Bessel
+	url = https://github.com/r-forge/specfun
+	subdir = pkg/Bessel
+[submodule "BiplotGUI"]
+	path = BiplotGUI
+	url = https://github.com/r-forge/biplotgui
+	subdir = pkg
+[submodule "CHNOSZ"]
+	path = CHNOSZ
+	url = https://github.com/r-forge/chnosz
+	subdir = pkg/CHNOSZ
+[submodule "ClassComparison"]
+	path = ClassComparison
+	url = https://github.com/r-forge/oompa
+	subdir = pkg/ClassComparison
+[submodule "ClassDiscovery"]
+	path = ClassDiscovery
+	url = https://github.com/r-forge/oompa
+	subdir = pkg/ClassDiscovery
+[submodule "CommonJavaJars"]
+	path = CommonJavaJars
+	url = https://github.com/r-forge/gsrmtp
+	subdir = pkg/CommonJavaJars
+[submodule "DPQ"]
+	path = DPQ
+	url = https://github.com/r-forge/specfun
+	subdir = pkg/DPQ
+[submodule "Eagle"]
+	path = Eagle
+	url = https://github.com/r-forge/eagle
+	subdir = pkg
+[submodule "EasyABC"]
+	path = EasyABC
+	url = https://github.com/r-forge/easyabc
+	subdir = pkg
+[submodule "EvalEst"]
+	path = EvalEst
+	url = https://github.com/r-forge/tsanalysis
+	subdir = pkg/EvalEst
+[submodule "FFD"]
+	path = FFD
+	url = https://github.com/r-forge/ffd
+	subdir = pkg
+[submodule "FME"]
+	path = FME
+	url = https://github.com/r-forge/fme
+	subdir = pkg/FME
+[submodule "FinTS"]
+	path = FinTS
+	url = https://github.com/r-forge/fints
+	subdir = pkg/FinTS
+[submodule "GNE"]
+	path = GNE
+	url = https://github.com/r-forge/optimizer
+	subdir = pkg/GNE
+[submodule "GPArotation"]
+	path = GPArotation
+	url = https://github.com/r-forge/optimizer
+	subdir = pkg/GPArotation
+[submodule "GeneralizedHyperbolic"]
+	path = GeneralizedHyperbolic
+	url = https://github.com/r-forge/rmetrics
+	subdir = pkg/GeneralizedHyperbolic
+[submodule "Gifi"]
+	path = Gifi
+	url = https://github.com/r-forge/psychor
+	subdir = pkg/Gifi
+[submodule "HistogramTools"]
+	path = HistogramTools
+	url = https://github.com/r-forge/histogramtools
+	subdir = pkg
+[submodule "Matrix"]
+	path = Matrix
+	url = https://github.com/r-forge/matrix
+	subdir = pkg/Matrix
+[submodule "MatrixModels"]
+	path = MatrixModels
+	url = https://github.com/r-forge/matrix
+	subdir = pkg/MatrixModels
+[submodule "POT"]
+	path = POT
+	url = https://github.com/r-forge/pot
+	subdir = pkg
+[submodule "PST"]
+	path = PST
+	url = https://github.com/r-forge/pst
+	subdir = pkg
+[submodule "Polychrome"]
+	path = Polychrome
+	url = https://github.com/r-forge/oompa
+	subdir = pkg/Polychrome
+[submodule "PreProcess"]
+	path = PreProcess
+	url = https://github.com/r-forge/oompa
+	subdir = pkg/PreProcess
+[submodule "QSARdata"]
+	path = QSARdata
+	url = https://github.com/r-forge/qsardata
+	subdir = QSARdata
+[submodule "R2MLwiN"]
+	path = R2MLwiN
+	url = https://github.com/r-forge/r2mlwin
+	subdir = R2MLwiN
+[submodule "RHRV"]
+	path = RHRV
+	url = https://github.com/r-forge/rhrv
+	subdir = pkg
+[submodule "RNetLogo"]
+	path = RNetLogo
+	url = https://github.com/r-forge/rnetlogo
+	subdir = pkg/RNetLogo
+[submodule "ROI"]
+	path = ROI
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI
+[submodule "ROI.models.miplib"]
+	path = ROI.models.miplib
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.models.miplib
+[submodule "ROI.plugin.alabama"]
+	path = ROI.plugin.alabama
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.alabama
+[submodule "ROI.plugin.cplex"]
+	path = ROI.plugin.cplex
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.cplex
+[submodule "ROI.plugin.deoptim"]
+	path = ROI.plugin.deoptim
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.deoptim
+[submodule "ROI.plugin.ecos"]
+	path = ROI.plugin.ecos
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.ecos
+[submodule "ROI.plugin.glpk"]
+	path = ROI.plugin.glpk
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.glpk
+[submodule "ROI.plugin.ipop"]
+	path = ROI.plugin.ipop
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.ipop
+[submodule "ROI.plugin.msbinlp"]
+	path = ROI.plugin.msbinlp
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.msbinlp
+[submodule "ROI.plugin.neos"]
+	path = ROI.plugin.neos
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.neos
+[submodule "ROI.plugin.nloptr"]
+	path = ROI.plugin.nloptr
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.nloptr
+[submodule "ROI.plugin.optimx"]
+	path = ROI.plugin.optimx
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.optimx
+[submodule "ROI.plugin.osqp"]
+	path = ROI.plugin.osqp
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.osqp
+[submodule "ROI.plugin.qpoases"]
+	path = ROI.plugin.qpoases
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.qpoases
+[submodule "ROI.plugin.quadprog"]
+	path = ROI.plugin.quadprog
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.quadprog
+[submodule "ROI.plugin.scs"]
+	path = ROI.plugin.scs
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.scs
+[submodule "ROI.plugin.symphony"]
+	path = ROI.plugin.symphony
+	url = https://github.com/r-forge/roi
+	subdir = pkg/ROI.plugin.symphony
+[submodule "ROptEst"]
+	path = ROptEst
+	url = https://github.com/r-forge/robast
+	subdir = pkg/ROptEst
+[submodule "ROptEstOld"]
+	path = ROptEstOld
+	url = https://github.com/r-forge/robast
+	subdir = pkg/ROptEstOld
+[submodule "ROptRegTS"]
+	path = ROptRegTS
+	url = https://github.com/r-forge/robast
+	subdir = pkg/ROptRegTS
+[submodule "RandVar"]
+	path = RandVar
+	url = https://github.com/r-forge/robast
+	subdir = pkg/RandVar
+[submodule "Rcplex"]
+	path = Rcplex
+	url = https://github.com/r-forge/rcplex
+	subdir = pkg
+[submodule "Rglpk"]
+	path = Rglpk
+	url = https://github.com/r-forge/rglp
+	subdir = pkg/Rglpk
+[submodule "Rmpfr"]
+	path = Rmpfr
+	url = https://github.com/r-forge/rmpfr
+	subdir = pkg
+[submodule "RobAStBase"]
+	path = RobAStBase
+	url = https://github.com/r-forge/robast
+	subdir = pkg/RobAStBase
+[submodule "RobAStRDA"]
+	path = RobAStRDA
+	url = https://github.com/r-forge/robast
+	subdir = pkg/RobAStRDA
+[submodule "RobExtremes"]
+	path = RobExtremes
+	url = https://github.com/r-forge/robast
+	subdir = pkg/RobExtremes
+[submodule "RobLox"]
+	path = RobLox
+	url = https://github.com/r-forge/robast
+	subdir = pkg/RobLox
+[submodule "RobLoxBioC"]
+	path = RobLoxBioC
+	url = https://github.com/r-forge/robast
+	subdir = pkg/RobLoxBioC
+[submodule "RobRex"]
+	path = RobRex
+	url = https://github.com/r-forge/robast
+	subdir = pkg/RobRex
+[submodule "Rsymphony"]
+	path = Rsymphony
+	url = https://github.com/r-forge/rsymphony
+	subdir = pkg
+[submodule "Rwave"]
+	path = Rwave
+	url = https://github.com/r-forge/rwave
+	subdir = pkg
+[submodule "SkewHyperbolic"]
+	path = SkewHyperbolic
+	url = https://github.com/r-forge/rmetrics
+	subdir = pkg/SkewHyperbolic
+[submodule "Sleuth2"]
+	path = Sleuth2
+	url = https://github.com/r-forge/sleuth2
+	subdir = pkg/Sleuth2
+[submodule "Sleuth3"]
+	path = Sleuth3
+	url = https://github.com/r-forge/sleuth2
+	subdir = pkg/Sleuth3
+[submodule "SpatialExtremes"]
+	path = SpatialExtremes
+	url = https://github.com/r-forge/spatialextremes
+	subdir = pkg
+[submodule "TailRank"]
+	path = TailRank
+	url = https://github.com/r-forge/oompa
+	subdir = pkg/TailRank
+[submodule "TopKLists"]
+	path = TopKLists
+	url = https://github.com/r-forge/topklists
+	subdir = pkg
+[submodule "VarSelLCM"]
+	path = VarSelLCM
+	url = https://github.com/r-forge/varsellcm
+	subdir = pkg
+[submodule "WRS2"]
+	path = WRS2
+	url = https://github.com/r-forge/psychor
+	subdir = pkg/WRS2
 [submodule "agrmt"]
 	path = agrmt
 	url = https://github.com/r-forge/agrmt
@@ -22,14 +294,6 @@
 	path = basefun
 	url = https://github.com/r-forge/ctm
 	subdir = pkg/basefun
-[submodule "Bessel"]
-	path = Bessel
-	url = https://github.com/r-forge/specfun
-	subdir = pkg/Bessel
-[submodule "BiplotGUI"]
-	path = BiplotGUI
-	url = https://github.com/r-forge/biplotgui
-	subdir = pkg
 [submodule "car"]
 	path = car
 	url = https://github.com/r-forge/car
@@ -50,18 +314,6 @@
 	path = cffdrs
 	url = https://github.com/r-forge/cffdrs
 	subdir = pkg/cffdrs
-[submodule "CHNOSZ"]
-	path = CHNOSZ
-	url = https://github.com/r-forge/chnosz
-	subdir = pkg/CHNOSZ
-[submodule "ClassComparison"]
-	path = ClassComparison
-	url = https://github.com/r-forge/oompa
-	subdir = pkg/ClassComparison
-[submodule "ClassDiscovery"]
-	path = ClassDiscovery
-	url = https://github.com/r-forge/oompa
-	subdir = pkg/ClassDiscovery
 [submodule "cobs"]
 	path = cobs
 	url = https://github.com/r-forge/curves-etc
@@ -74,10 +326,6 @@
 	path = colorspace
 	url = https://github.com/r-forge/colorspace
 	subdir = pkg/colorspace
-[submodule "CommonJavaJars"]
-	path = CommonJavaJars
-	url = https://github.com/r-forge/gsrmtp
-	subdir = pkg/CommonJavaJars
 [submodule "cops"]
 	path = cops
 	url = https://github.com/r-forge/stops
@@ -134,34 +382,18 @@
 	path = distrSim
 	url = https://github.com/r-forge/distr
 	subdir = pkg/distrSim
-[submodule "distrTeach"]
-	path = distrTeach
-	url = https://github.com/r-forge/distr
-	subdir = pkg/distrTeach
 [submodule "distrTEst"]
 	path = distrTEst
 	url = https://github.com/r-forge/distr
 	subdir = pkg/distrTEst
-[submodule "DPQ"]
-	path = DPQ
-	url = https://github.com/r-forge/specfun
-	subdir = pkg/DPQ
+[submodule "distrTeach"]
+	path = distrTeach
+	url = https://github.com/r-forge/distr
+	subdir = pkg/distrTeach
 [submodule "dse"]
 	path = dse
 	url = https://github.com/r-forge/tsanalysis
 	subdir = pkg/dse
-[submodule "Eagle"]
-	path = Eagle
-	url = https://github.com/r-forge/eagle
-	subdir = pkg
-[submodule "EasyABC"]
-	path = EasyABC
-	url = https://github.com/r-forge/easyabc
-	subdir = pkg
-[submodule "EvalEst"]
-	path = EvalEst
-	url = https://github.com/r-forge/tsanalysis
-	subdir = pkg/EvalEst
 [submodule "expm"]
 	path = expm
 	url = https://github.com/r-forge/expm
@@ -174,10 +406,6 @@
 	path = fExtremes
 	url = https://github.com/r-forge/rmetrics
 	subdir = pkg/fExtremes
-[submodule "FFD"]
-	path = FFD
-	url = https://github.com/r-forge/ffd
-	subdir = pkg
 [submodule "fGarch"]
 	path = fGarch
 	url = https://github.com/r-forge/rmetrics
@@ -186,14 +414,6 @@
 	path = fImport
 	url = https://github.com/r-forge/rmetrics
 	subdir = pkg/fImport
-[submodule "FinTS"]
-	path = FinTS
-	url = https://github.com/r-forge/fints
-	subdir = pkg/FinTS
-[submodule "FME"]
-	path = FME
-	url = https://github.com/r-forge/fme
-	subdir = pkg/FME
 [submodule "fPortfolio"]
 	path = fPortfolio
 	url = https://github.com/r-forge/rmetrics
@@ -202,41 +422,21 @@
 	path = fRegression
 	url = https://github.com/r-forge/rmetrics
 	subdir = pkg/fRegression
-[submodule "frontier"]
-	path = frontier
-	url = https://github.com/r-forge/frontier
-	subdir = pkg/frontier
 [submodule "fUnitRoots"]
 	path = fUnitRoots
 	url = https://github.com/r-forge/rmetrics
 	subdir = pkg/fUnitRoots
+[submodule "frontier"]
+	path = frontier
+	url = https://github.com/r-forge/frontier
+	subdir = pkg/frontier
 [submodule "fwi.fbp"]
 	path = fwi.fbp
 	url = https://github.com/r-forge/fwi-fbp
 	subdir = pkg/fwi.fbp
-[submodule "GeneralizedHyperbolic"]
-	path = GeneralizedHyperbolic
-	url = https://github.com/r-forge/rmetrics
-	subdir = pkg/GeneralizedHyperbolic
 [submodule "genoPlotR"]
 	path = genoPlotR
 	url = https://github.com/r-forge/genoplotr
-	subdir = pkg
-[submodule "Gifi"]
-	path = Gifi
-	url = https://github.com/r-forge/psychor
-	subdir = pkg/Gifi
-[submodule "GNE"]
-	path = GNE
-	url = https://github.com/r-forge/optimizer
-	subdir = pkg/GNE
-[submodule "GPArotation"]
-	path = GPArotation
-	url = https://github.com/r-forge/optimizer
-	subdir = pkg/GPArotation
-[submodule "gridGraphviz"]
-	path = gridGraphviz
-	url = https://github.com/r-forge/gridgraph
 	subdir = pkg
 [submodule "grImport"]
 	path = grImport
@@ -246,9 +446,9 @@
 	path = grImport2
 	url = https://github.com/r-forge/grimport
 	subdir = pkg/grImport2
-[submodule "HistogramTools"]
-	path = HistogramTools
-	url = https://github.com/r-forge/histogramtools
+[submodule "gridGraphviz"]
+	path = gridGraphviz
+	url = https://github.com/r-forge/gridgraph
 	subdir = pkg
 [submodule "isotone"]
 	path = isotone
@@ -270,14 +470,6 @@
 	path = maptools
 	url = https://github.com/r-forge/maptools
 	subdir = pkg
-[submodule "Matrix"]
-	path = Matrix
-	url = https://github.com/r-forge/matrix
-	subdir = pkg/Matrix
-[submodule "MatrixModels"]
-	path = MatrixModels
-	url = https://github.com/r-forge/matrix
-	subdir = pkg/MatrixModels
 [submodule "meteo"]
 	path = meteo
 	url = https://github.com/r-forge/meteo
@@ -366,50 +558,22 @@
 	path = plugdensity
 	url = https://github.com/r-forge/curves-etc
 	subdir = pkg/plugdensity
-[submodule "Polychrome"]
-	path = Polychrome
-	url = https://github.com/r-forge/oompa
-	subdir = pkg/Polychrome
 [submodule "polycor"]
 	path = polycor
 	url = https://github.com/r-forge/polycor
 	subdir = pkg
-[submodule "POT"]
-	path = POT
-	url = https://github.com/r-forge/pot
-	subdir = pkg
-[submodule "PreProcess"]
-	path = PreProcess
-	url = https://github.com/r-forge/oompa
-	subdir = pkg/PreProcess
-[submodule "PST"]
-	path = PST
-	url = https://github.com/r-forge/pst
-	subdir = pkg
-[submodule "QSARdata"]
-	path = QSARdata
-	url = https://github.com/r-forge/qsardata
-	subdir = QSARdata
 [submodule "qualV"]
 	path = qualV
 	url = https://github.com/r-forge/qualv
 	subdir = pkg/qualV
-[submodule "R2MLwiN"]
-	path = R2MLwiN
-	url = https://github.com/r-forge/r2mlwin
-	subdir = R2MLwiN
+[submodule "rNOMADS"]
+	path = rNOMADS
+	url = https://github.com/r-forge/rnomads
+	subdir = pkg/rNOMADS
 [submodule "randtoolbox"]
 	path = randtoolbox
 	url = https://github.com/r-forge/rmetrics
 	subdir = pkg/randtoolbox
-[submodule "RandVar"]
-	path = RandVar
-	url = https://github.com/r-forge/robast
-	subdir = pkg/RandVar
-[submodule "Rcplex"]
-	path = Rcplex
-	url = https://github.com/r-forge/rcplex
-	subdir = pkg
 [submodule "rgdal"]
 	path = rgdal
 	url = https://github.com/r-forge/rgdal
@@ -418,146 +582,14 @@
 	path = rgeos
 	url = https://github.com/r-forge/rgeos
 	subdir = pkg
-[submodule "Rglpk"]
-	path = Rglpk
-	url = https://github.com/r-forge/rglp
-	subdir = pkg/Rglpk
-[submodule "RHRV"]
-	path = RHRV
-	url = https://github.com/r-forge/rhrv
-	subdir = pkg
-[submodule "Rmpfr"]
-	path = Rmpfr
-	url = https://github.com/r-forge/rmpfr
-	subdir = pkg
-[submodule "RNetLogo"]
-	path = RNetLogo
-	url = https://github.com/r-forge/rnetlogo
-	subdir = pkg/RNetLogo
-[submodule "rNOMADS"]
-	path = rNOMADS
-	url = https://github.com/r-forge/rnomads
-	subdir = pkg/rNOMADS
-[submodule "RobAStBase"]
-	path = RobAStBase
-	url = https://github.com/r-forge/robast
-	subdir = pkg/RobAStBase
-[submodule "RobAStRDA"]
-	path = RobAStRDA
-	url = https://github.com/r-forge/robast
-	subdir = pkg/RobAStRDA
-[submodule "RobExtremes"]
-	path = RobExtremes
-	url = https://github.com/r-forge/robast
-	subdir = pkg/RobExtremes
-[submodule "RobLox"]
-	path = RobLox
-	url = https://github.com/r-forge/robast
-	subdir = pkg/RobLox
-[submodule "RobLoxBioC"]
-	path = RobLoxBioC
-	url = https://github.com/r-forge/robast
-	subdir = pkg/RobLoxBioC
-[submodule "RobRex"]
-	path = RobRex
-	url = https://github.com/r-forge/robast
-	subdir = pkg/RobRex
 [submodule "robustbase"]
 	path = robustbase
 	url = https://github.com/r-forge/robustbase
 	subdir = pkg/robustbase
-[submodule "ROI"]
-	path = ROI
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI
-[submodule "ROI.models.miplib"]
-	path = ROI.models.miplib
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.models.miplib
-[submodule "ROI.plugin.alabama"]
-	path = ROI.plugin.alabama
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.alabama
-[submodule "ROI.plugin.cplex"]
-	path = ROI.plugin.cplex
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.cplex
-[submodule "ROI.plugin.deoptim"]
-	path = ROI.plugin.deoptim
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.deoptim
-[submodule "ROI.plugin.ecos"]
-	path = ROI.plugin.ecos
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.ecos
-[submodule "ROI.plugin.glpk"]
-	path = ROI.plugin.glpk
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.glpk
-[submodule "ROI.plugin.ipop"]
-	path = ROI.plugin.ipop
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.ipop
-[submodule "ROI.plugin.msbinlp"]
-	path = ROI.plugin.msbinlp
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.msbinlp
-[submodule "ROI.plugin.neos"]
-	path = ROI.plugin.neos
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.neos
-[submodule "ROI.plugin.nloptr"]
-	path = ROI.plugin.nloptr
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.nloptr
-[submodule "ROI.plugin.optimx"]
-	path = ROI.plugin.optimx
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.optimx
-[submodule "ROI.plugin.osqp"]
-	path = ROI.plugin.osqp
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.osqp
-[submodule "ROI.plugin.qpoases"]
-	path = ROI.plugin.qpoases
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.qpoases
-[submodule "ROI.plugin.quadprog"]
-	path = ROI.plugin.quadprog
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.quadprog
-[submodule "ROI.plugin.scs"]
-	path = ROI.plugin.scs
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.scs
-[submodule "ROI.plugin.symphony"]
-	path = ROI.plugin.symphony
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.symphony
-[submodule "ROptEst"]
-	path = ROptEst
-	url = https://github.com/r-forge/robast
-	subdir = pkg/ROptEst
-[submodule "ROptEstOld"]
-	path = ROptEstOld
-	url = https://github.com/r-forge/robast
-	subdir = pkg/ROptEstOld
-[submodule "ROptRegTS"]
-	path = ROptRegTS
-	url = https://github.com/r-forge/robast
-	subdir = pkg/ROptRegTS
-[submodule "Rsymphony"]
-	path = Rsymphony
-	url = https://github.com/r-forge/rsymphony
-	subdir = pkg
 [submodule "rvif"]
 	path = rvif
 	url = https://github.com/r-forge/colldetreat
 	subdir = pkg/rvif
-[submodule "Rwave"]
-	path = Rwave
-	url = https://github.com/r-forge/rwave
-	subdir = pkg
 [submodule "sandwich"]
 	path = sandwich
 	url = https://github.com/r-forge/sandwich
@@ -574,25 +606,9 @@
 	path = skellam
 	url = https://github.com/r-forge/healthqueues
 	subdir = pkg/skellam
-[submodule "SkewHyperbolic"]
-	path = SkewHyperbolic
-	url = https://github.com/r-forge/rmetrics
-	subdir = pkg/SkewHyperbolic
-[submodule "Sleuth2"]
-	path = Sleuth2
-	url = https://github.com/r-forge/sleuth2
-	subdir = pkg/Sleuth2
-[submodule "Sleuth3"]
-	path = Sleuth3
-	url = https://github.com/r-forge/sleuth2
-	subdir = pkg/Sleuth3
 [submodule "softclassval"]
 	path = softclassval
 	url = https://github.com/r-forge/softclassval
-	subdir = pkg
-[submodule "SpatialExtremes"]
-	path = SpatialExtremes
-	url = https://github.com/r-forge/spatialextremes
 	subdir = pkg
 [submodule "sse"]
 	path = sse
@@ -618,10 +634,6 @@
 	path = systemfit
 	url = https://github.com/r-forge/systemfit
 	subdir = pkg
-[submodule "TailRank"]
-	path = TailRank
-	url = https://github.com/r-forge/oompa
-	subdir = pkg/TailRank
 [submodule "tbm"]
 	path = tbm
 	url = https://github.com/r-forge/ctm
@@ -650,10 +662,6 @@
 	path = tm.plugin.europresse
 	url = https://github.com/r-forge/r-temis
 	subdir = pkg/tm.plugin.europresse
-[submodule "TopKLists"]
-	path = TopKLists
-	url = https://github.com/r-forge/topklists
-	subdir = pkg
 [submodule "tram"]
 	path = tram
 	url = https://github.com/r-forge/ctm
@@ -690,18 +698,10 @@
 	path = variables
 	url = https://github.com/r-forge/ctm
 	subdir = pkg/variables
-[submodule "VarSelLCM"]
-	path = VarSelLCM
-	url = https://github.com/r-forge/varsellcm
-	subdir = pkg
 [submodule "wordspace"]
 	path = wordspace
 	url = https://github.com/r-forge/wordspace
 	subdir = pkg/wordspace
-[submodule "WRS2"]
-	path = WRS2
-	url = https://github.com/r-forge/psychor
-	subdir = pkg/WRS2
 [submodule "xtable"]
 	path = xtable
 	url = https://github.com/r-forge/xtable
