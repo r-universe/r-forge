@@ -713,3 +713,4 @@
 [submodule "zoo"]
 	path = zoo
 	url = https://github.com/r-forge/zoo
+	subdir = pkg/zoo
