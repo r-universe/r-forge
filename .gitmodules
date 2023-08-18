@@ -606,6 +606,10 @@
 	path = skellam
 	url = https://github.com/r-forge/healthqueues
 	subdir = pkg/skellam
+[submodule "smacofx"]
+	path = smacofx
+	url = https://github.com/r-forge/stops
+	subdir = pkg/smacofx
 [submodule "softclassval"]
 	path = softclassval
 	url = https://github.com/r-forge/softclassval
