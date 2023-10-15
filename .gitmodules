@@ -470,10 +470,6 @@
 	path = maptools
 	url = https://github.com/r-forge/maptools
 	subdir = pkg
-[submodule "meteo"]
-	path = meteo
-	url = https://github.com/r-forge/meteo
-	subdir = pkg
 [submodule "minqa"]
 	path = minqa
 	url = https://github.com/r-forge/optimizer
