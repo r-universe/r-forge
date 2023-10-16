@@ -466,10 +466,6 @@
 	path = loa
 	url = https://github.com/r-forge/loa
 	subdir = pkg/loa
-[submodule "maptools"]
-	path = maptools
-	url = https://github.com/r-forge/maptools
-	subdir = pkg
 [submodule "minqa"]
 	path = minqa
 	url = https://github.com/r-forge/optimizer
@@ -570,14 +566,6 @@
 	path = randtoolbox
 	url = https://github.com/r-forge/rmetrics
 	subdir = pkg/randtoolbox
-[submodule "rgdal"]
-	path = rgdal
-	url = https://github.com/r-forge/rgdal
-	subdir = pkg
-[submodule "rgeos"]
-	path = rgeos
-	url = https://github.com/r-forge/rgeos
-	subdir = pkg
 [submodule "robustbase"]
 	path = robustbase
 	url = https://github.com/r-forge/robustbase
