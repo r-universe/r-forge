@@ -510,6 +510,10 @@
 	path = mvtnorm
 	url = https://github.com/r-forge/mvtnorm
 	subdir = pkg
+[submodule "nor1mix"]
+	path = nor1mix
+	url = https://github.com/r-forge/curves-etc
+	subdir = pkg/nor1mix
 [submodule "numDeriv"]
 	path = numDeriv
 	url = https://github.com/r-forge/optimizer
