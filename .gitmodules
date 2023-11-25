@@ -538,10 +538,6 @@
 	path = pcalg
 	url = https://github.com/r-forge/pcalg
 	subdir = pkg
-[submodule "pedigreemm"]
-	path = pedigreemm
-	url = https://github.com/r-forge/pedigreemm
-	subdir = pkg/pedigreemm
 [submodule "pems.utils"]
 	path = pems.utils
 	url = https://github.com/r-forge/pems
