@@ -82,6 +82,10 @@
 	path = MatrixModels
 	url = https://github.com/r-forge/matrix
 	subdir = pkg/MatrixModels
+[submodule "NormalLaplace"]
+	path = NormalLaplace
+	url = https://github.com/r-forge/rmetrics
+	subdir = pkg/NormalLaplace
 [submodule "POT"]
 	path = POT
 	url = https://github.com/r-forge/pot
