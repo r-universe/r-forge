@@ -30,6 +30,10 @@
 	path = DPQ
 	url = https://github.com/r-forge/specfun
 	subdir = pkg/DPQ
+[submodule "DPQmpfr"]
+	path = DPQmpfr
+	url = https://github.com/r-forge/specfun
+	subdir = pkg/DPQmpfr
 [submodule "Eagle"]
 	path = Eagle
 	url = https://github.com/r-forge/eagle
