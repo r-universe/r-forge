@@ -474,6 +474,10 @@
 	path = loa
 	url = https://github.com/r-forge/loa
 	subdir = pkg/loa
+[submodule "lokern"]
+	path = lokern
+	url = https://github.com/r-forge/curves-etc
+	subdir = pkg/lokern
 [submodule "minqa"]
 	path = minqa
 	url = https://github.com/r-forge/optimizer
