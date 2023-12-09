@@ -478,6 +478,10 @@
 	path = lokern
 	url = https://github.com/r-forge/curves-etc
 	subdir = pkg/lokern
+[submodule "lpridge"]
+	path = lpridge
+	url = https://github.com/r-forge/curves-etc
+	subdir = pkg/lpridge
 [submodule "minqa"]
 	path = minqa
 	url = https://github.com/r-forge/optimizer
