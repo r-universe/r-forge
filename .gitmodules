@@ -54,10 +54,6 @@
 	path = FME
 	url = https://github.com/r-forge/fme
 	subdir = pkg/FME
-[submodule "FinTS"]
-	path = FinTS
-	url = https://github.com/r-forge/fints
-	subdir = pkg/FinTS
 [submodule "GNE"]
 	path = GNE
 	url = https://github.com/r-forge/optimizer
