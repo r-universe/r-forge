@@ -430,10 +430,6 @@
 	path = frontier
 	url = https://github.com/r-forge/frontier
 	subdir = pkg/frontier
-[submodule "fwi.fbp"]
-	path = fwi.fbp
-	url = https://github.com/r-forge/fwi-fbp
-	subdir = pkg/fwi.fbp
 [submodule "genoPlotR"]
 	path = genoPlotR
 	url = https://github.com/r-forge/genoplotr
