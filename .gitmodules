@@ -622,6 +622,10 @@
 	path = surveillance
 	url = https://github.com/r-forge/surveillance
 	subdir = pkg
+[submodule "survey"]
+	path = survey
+	url = https://github.com/r-forge/r-survey
+	subdir = pkg/survey
 [submodule "systemfit"]
 	path = systemfit
 	url = https://github.com/r-forge/systemfit
