@@ -6,10 +6,6 @@
 	path = Bessel
 	url = https://github.com/r-forge/specfun
 	subdir = pkg/Bessel
-[submodule "BiplotGUI"]
-	path = BiplotGUI
-	url = https://github.com/r-forge/biplotgui
-	subdir = pkg
 [submodule "CHNOSZ"]
 	path = CHNOSZ
 	url = https://github.com/r-forge/chnosz
