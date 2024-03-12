@@ -186,14 +186,6 @@
 	path = ROptEst
 	url = https://github.com/r-forge/robast
 	subdir = pkg/ROptEst
-[submodule "ROptEstOld"]
-	path = ROptEstOld
-	url = https://github.com/r-forge/robast
-	subdir = pkg/ROptEstOld
-[submodule "ROptRegTS"]
-	path = ROptRegTS
-	url = https://github.com/r-forge/robast
-	subdir = pkg/ROptRegTS
 [submodule "RandVar"]
 	path = RandVar
 	url = https://github.com/r-forge/robast
@@ -230,10 +222,6 @@
 	path = RobLoxBioC
 	url = https://github.com/r-forge/robast
 	subdir = pkg/RobLoxBioC
-[submodule "RobRex"]
-	path = RobRex
-	url = https://github.com/r-forge/robast
-	subdir = pkg/RobRex
 [submodule "Rsymphony"]
 	path = Rsymphony
 	url = https://github.com/r-forge/rsymphony
