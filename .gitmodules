@@ -394,10 +394,6 @@
 	path = fExtremes
 	url = https://github.com/r-forge/rmetrics
 	subdir = pkg/fExtremes
-[submodule "fGarch"]
-	path = fGarch
-	url = https://github.com/r-forge/rmetrics
-	subdir = pkg/fGarch
 [submodule "fImport"]
 	path = fImport
 	url = https://github.com/r-forge/rmetrics
