@@ -570,6 +570,10 @@
 	path = setRNG
 	url = https://github.com/r-forge/distr
 	subdir = pkg/setRNG
+[submodule "signal"]
+	path = signal
+	url = https://github.com/r-forge/signal
+	subdir = pkg
 [submodule "sirad"]
 	path = sirad
 	url = https://github.com/r-forge/sirad
