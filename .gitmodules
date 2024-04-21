@@ -670,6 +670,10 @@
 	path = tscount
 	url = https://github.com/r-forge/tscount
 	subdir = pkg
+[submodule "tuneR"]
+	path = tuneR
+	url = https://github.com/r-forge/tuner
+	subdir = pkg
 [submodule "urbin"]
 	path = urbin
 	url = https://github.com/r-forge/urbin
