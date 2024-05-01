@@ -38,10 +38,6 @@
 	path = EasyABC
 	url = https://github.com/r-forge/easyabc
 	subdir = pkg
-[submodule "EvalEst"]
-	path = EvalEst
-	url = https://github.com/r-forge/tsanalysis
-	subdir = pkg/EvalEst
 [submodule "FFD"]
 	path = FFD
 	url = https://github.com/r-forge/ffd
@@ -378,10 +374,6 @@
 	path = distrTeach
 	url = https://github.com/r-forge/distr
 	subdir = pkg/distrTeach
-[submodule "dse"]
-	path = dse
-	url = https://github.com/r-forge/tsanalysis
-	subdir = pkg/dse
 [submodule "expm"]
 	path = expm
 	url = https://github.com/r-forge/expm
