@@ -594,10 +594,6 @@
 	path = stops
 	url = https://github.com/r-forge/stops
 	subdir = pkg/stops
-[submodule "supraHex"]
-	path = supraHex
-	url = https://github.com/r-forge/suprahex
-	subdir = pkg
 [submodule "surveillance"]
 	path = surveillance
 	url = https://github.com/r-forge/surveillance
