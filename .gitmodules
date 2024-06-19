@@ -62,10 +62,6 @@
 	path = Gifi
 	url = https://github.com/r-forge/psychor
 	subdir = pkg/Gifi
-[submodule "HistogramTools"]
-	path = HistogramTools
-	url = https://github.com/r-forge/histogramtools
-	subdir = pkg
 [submodule "Matrix"]
 	path = Matrix
 	url = https://github.com/r-forge/matrix
