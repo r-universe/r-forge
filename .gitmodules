@@ -276,8 +276,7 @@
 	subdir = pkg/basefun
 [submodule "betareg"]
 	path = betareg
-	url = https://github.com/r-forge/betareg
-	subdir = pkg
+	url = https://github.com/r-forge/topmodels
 [submodule "car"]
 	path = car
 	url = https://github.com/r-forge/car
