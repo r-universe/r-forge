@@ -406,6 +406,10 @@
 	path = frontier
 	url = https://github.com/r-forge/frontier
 	subdir = pkg/frontier
+[submodule "fuzzySim"]
+	path = fuzzySim
+	url = https://github.com/r-forge/fuzzysim
+	subdir = pkg
 [submodule "genoPlotR"]
 	path = genoPlotR
 	url = https://github.com/r-forge/genoplotr
