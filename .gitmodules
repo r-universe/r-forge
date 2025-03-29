@@ -630,10 +630,6 @@
 	path = tm
 	url = https://github.com/r-forge/tm
 	subdir = pkg
-[submodule "tm.plugin.europresse"]
-	path = tm.plugin.europresse
-	url = https://github.com/r-forge/r-temis
-	subdir = pkg/tm.plugin.europresse
 [submodule "tram"]
 	path = tram
 	url = https://github.com/r-forge/ctm
