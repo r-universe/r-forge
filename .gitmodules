@@ -574,10 +574,6 @@
 	path = sirad
 	url = https://github.com/r-forge/sirad
 	subdir = pkg
-[submodule "skellam"]
-	path = skellam
-	url = https://github.com/r-forge/healthqueues
-	subdir = pkg/skellam
 [submodule "smacofx"]
 	path = smacofx
 	url = https://github.com/r-forge/stops
