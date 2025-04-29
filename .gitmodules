@@ -454,10 +454,6 @@
 	path = minqa
 	url = https://github.com/r-forge/optimizer
 	subdir = pkg/minqa
-[submodule "mlogit"]
-	path = mlogit
-	url = https://github.com/r-forge/mlogit
-	subdir = pkg
 [submodule "mlt"]
 	path = mlt
 	url = https://github.com/r-forge/ctm
