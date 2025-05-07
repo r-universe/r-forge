@@ -450,6 +450,10 @@
 	path = lpridge
 	url = https://github.com/r-forge/curves-etc
 	subdir = pkg/lpridge
+[submodule "mada"]
+	path = mada
+	url = https://github.com/r-forge/mada
+	subdir = pkg
 [submodule "minqa"]
 	path = minqa
 	url = https://github.com/r-forge/optimizer
