@@ -658,10 +658,6 @@
 	path = tuneR
 	url = https://github.com/r-forge/tuner
 	subdir = pkg
-[submodule "urbin"]
-	path = urbin
-	url = https://github.com/r-forge/urbin
-	subdir = pkg
 [submodule "variables"]
 	path = variables
 	url = https://github.com/r-forge/ctm
