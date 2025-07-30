@@ -554,10 +554,6 @@
 	path = robustbase
 	url = https://github.com/r-forge/robustbase
 	subdir = pkg/robustbase
-[submodule "rvif"]
-	path = rvif
-	url = https://github.com/r-forge/colldetreat
-	subdir = pkg/rvif
 [submodule "sandwich"]
 	path = sandwich
 	url = https://github.com/r-forge/sandwich
