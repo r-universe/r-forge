@@ -542,10 +542,6 @@
 	path = qualV
 	url = https://github.com/r-forge/qualv
 	subdir = pkg/qualV
-[submodule "rNOMADS"]
-	path = rNOMADS
-	url = https://github.com/r-forge/rnomads
-	subdir = pkg/rNOMADS
 [submodule "randtoolbox"]
 	path = randtoolbox
 	url = https://github.com/r-forge/rmetrics
