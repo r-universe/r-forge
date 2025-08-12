@@ -574,10 +574,6 @@
 	path = softclassval
 	url = https://github.com/r-forge/softclassval
 	subdir = pkg
-[submodule "sse"]
-	path = sse
-	url = https://github.com/r-forge/power
-	subdir = pkg/sse
 [submodule "stabledist"]
 	path = stabledist
 	url = https://github.com/r-forge/rmetrics
@@ -602,10 +598,6 @@
 	path = tbm
 	url = https://github.com/r-forge/ctm
 	subdir = pkg/tbm
-[submodule "tfplot"]
-	path = tfplot
-	url = https://github.com/r-forge/tsanalysis
-	subdir = pkg/tfplot
 [submodule "tframe"]
 	path = tframe
 	url = https://github.com/r-forge/tsanalysis
