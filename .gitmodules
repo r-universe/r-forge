@@ -290,10 +290,6 @@
 	path = censReg
 	url = https://github.com/r-forge/sampleselection
 	subdir = pkg/censReg
-[submodule "cffdrs"]
-	path = cffdrs
-	url = https://github.com/r-forge/cffdrs
-	subdir = pkg/cffdrs
 [submodule "cobs"]
 	path = cobs
 	url = https://github.com/r-forge/curves-etc
