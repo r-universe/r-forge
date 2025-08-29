@@ -526,6 +526,10 @@
 	path = plasma
 	url = https://github.com/r-forge/oompa
 	subdir = pkg/plasma
+[submodule "plgraphics"]
+	path = plgraphics
+	url = https://github.com/r-forge/regdevelop
+	subdir = pkg/plgraphics
 [submodule "plugdensity"]
 	path = plugdensity
 	url = https://github.com/r-forge/curves-etc
@@ -598,10 +602,6 @@
 	path = tframe
 	url = https://github.com/r-forge/tsanalysis
 	subdir = pkg/tframe
-[submodule "tframePlus"]
-	path = tframePlus
-	url = https://github.com/r-forge/tsanalysis
-	subdir = pkg/tframePlus
 [submodule "tm"]
 	path = tm
 	url = https://github.com/r-forge/tm
