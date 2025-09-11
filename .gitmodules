@@ -426,10 +426,6 @@
 	path = isotone
 	url = https://github.com/r-forge/psychor
 	subdir = pkg/isotone
-[submodule "latticeExtra"]
-	path = latticeExtra
-	url = https://github.com/r-forge/latticeextra
-	subdir = pkg
 [submodule "linprog"]
 	path = linprog
 	url = https://github.com/r-forge/linprog
