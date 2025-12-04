@@ -558,6 +558,10 @@
 	path = signal
 	url = https://github.com/r-forge/signal
 	subdir = pkg
+[submodule "simest"]
+	path = simest
+	url = https://github.com/r-forge/curves-etc
+	subdir = pkg/simest
 [submodule "sirad"]
 	path = sirad
 	url = https://github.com/r-forge/sirad
