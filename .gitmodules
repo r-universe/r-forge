@@ -530,10 +530,6 @@
 	path = plugdensity
 	url = https://github.com/r-forge/curves-etc
 	subdir = pkg/plugdensity
-[submodule "polycor"]
-	path = polycor
-	url = https://github.com/r-forge/polycor
-	subdir = pkg
 [submodule "qualV"]
 	path = qualV
 	url = https://github.com/r-forge/qualv
