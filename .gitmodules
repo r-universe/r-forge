@@ -382,10 +382,6 @@
 	path = fExtremes
 	url = https://github.com/r-forge/rmetrics
 	subdir = pkg/fExtremes
-[submodule "fImport"]
-	path = fImport
-	url = https://github.com/r-forge/rmetrics
-	subdir = pkg/fImport
 [submodule "fPortfolio"]
 	path = fPortfolio
 	url = https://github.com/r-forge/rmetrics
