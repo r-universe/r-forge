@@ -390,10 +390,6 @@
 	path = fRegression
 	url = https://github.com/r-forge/rmetrics
 	subdir = pkg/fRegression
-[submodule "fUnitRoots"]
-	path = fUnitRoots
-	url = https://github.com/r-forge/rmetrics
-	subdir = pkg/fUnitRoots
 [submodule "frontier"]
 	path = frontier
 	url = https://github.com/r-forge/frontier
