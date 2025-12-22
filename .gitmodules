@@ -210,10 +210,6 @@
 	path = RobLox
 	url = https://github.com/r-forge/robast
 	subdir = pkg/RobLox
-[submodule "RobLoxBioC"]
-	path = RobLoxBioC
-	url = https://github.com/r-forge/robast
-	subdir = pkg/RobLoxBioC
 [submodule "Rsymphony"]
 	path = Rsymphony
 	url = https://github.com/r-forge/rsymphony
