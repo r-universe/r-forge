@@ -442,10 +442,6 @@
 	path = mlt.docreg
 	url = https://github.com/r-forge/ctm
 	subdir = pkg/mlt.docreg
-[submodule "modEvA"]
-	path = modEvA
-	url = https://github.com/r-forge/modeva
-	subdir = pkg
 [submodule "mpm"]
 	path = mpm
 	url = https://github.com/r-forge/mpm
