@@ -522,6 +522,10 @@
 	path = robustbase
 	url = https://github.com/r-forge/robustbase
 	subdir = pkg/robustbase
+[submodule "sampleSelection"]
+	path = sampleSelection
+	url = https://github.com/r-forge/sampleselection
+	subdir = pkg/sampleSelection
 [submodule "sandwich"]
 	path = sandwich
 	url = https://github.com/r-forge/sandwich
