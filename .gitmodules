@@ -78,10 +78,6 @@
 	path = POT
 	url = https://github.com/r-forge/pot
 	subdir = pkg
-[submodule "PST"]
-	path = PST
-	url = https://github.com/r-forge/pst
-	subdir = pkg
 [submodule "Polychrome"]
 	path = Polychrome
 	url = https://github.com/r-forge/oompa
