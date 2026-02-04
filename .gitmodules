@@ -266,10 +266,6 @@
 	path = basefun
 	url = https://github.com/r-forge/ctm
 	subdir = pkg/basefun
-[submodule "car"]
-	path = car
-	url = https://github.com/r-forge/car
-	subdir = pkg/car
 [submodule "carData"]
 	path = carData
 	url = https://github.com/r-forge/car
