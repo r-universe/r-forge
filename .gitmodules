@@ -506,6 +506,10 @@
 	path = randtoolbox
 	url = https://github.com/r-forge/rmetrics
 	subdir = pkg/randtoolbox
+[submodule "robustX"]
+	path = robustX
+	url = https://github.com/r-forge/robustbase
+	subdir = pkg/robustX
 [submodule "robustbase"]
 	path = robustbase
 	url = https://github.com/r-forge/robustbase
