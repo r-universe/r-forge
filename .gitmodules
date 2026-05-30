@@ -450,10 +450,6 @@
 	path = mutossGUI
 	url = https://github.com/r-forge/mutoss
 	subdir = pkg/mutossGUI
-[submodule "mvtnorm"]
-	path = mvtnorm
-	url = https://github.com/r-forge/mvtnorm
-	subdir = pkg
 [submodule "nor1mix"]
 	path = nor1mix
 	url = https://github.com/r-forge/curves-etc
