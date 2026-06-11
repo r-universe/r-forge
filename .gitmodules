@@ -562,10 +562,6 @@
 	path = systemfit
 	url = https://github.com/r-forge/systemfit
 	subdir = pkg
-[submodule "tbm"]
-	path = tbm
-	url = https://github.com/r-forge/ctm
-	subdir = pkg/tbm
 [submodule "tframe"]
 	path = tframe
 	url = https://github.com/r-forge/tsanalysis
