@@ -538,10 +538,6 @@
 	path = smacofx
 	url = https://github.com/r-forge/stops
 	subdir = pkg/smacofx
-[submodule "softclassval"]
-	path = softclassval
-	url = https://github.com/r-forge/softclassval
-	subdir = pkg
 [submodule "stabledist"]
 	path = stabledist
 	url = https://github.com/r-forge/rmetrics
