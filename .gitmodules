@@ -382,6 +382,10 @@
 	path = genoPlotR
 	url = https://github.com/r-forge/genoplotr
 	subdir = pkg
+[submodule "glmertree"]
+	path = glmertree
+	url = https://github.com/r-forge/partykit
+	subdir = pkg/glmertree
 [submodule "grImport"]
 	path = grImport
 	url = https://github.com/r-forge/grimport
