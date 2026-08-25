@@ -62,10 +62,6 @@
 	path = Gifi
 	url = https://github.com/r-forge/psychor
 	subdir = pkg/Gifi
-[submodule "Matrix"]
-	path = Matrix
-	url = https://github.com/r-forge/matrix
-	subdir = pkg/Matrix
 [submodule "MatrixModels"]
 	path = MatrixModels
 	url = https://github.com/r-forge/matrix
@@ -110,22 +106,10 @@
 	path = ROI.models.miplib
 	url = https://github.com/r-forge/roi
 	subdir = pkg/ROI.models.miplib
-[submodule "ROI.plugin.alabama"]
-	path = ROI.plugin.alabama
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.alabama
 [submodule "ROI.plugin.cplex"]
 	path = ROI.plugin.cplex
 	url = https://github.com/r-forge/roi
 	subdir = pkg/ROI.plugin.cplex
-[submodule "ROI.plugin.deoptim"]
-	path = ROI.plugin.deoptim
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.deoptim
-[submodule "ROI.plugin.ecos"]
-	path = ROI.plugin.ecos
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.ecos
 [submodule "ROI.plugin.glpk"]
 	path = ROI.plugin.glpk
 	url = https://github.com/r-forge/roi
@@ -134,38 +118,10 @@
 	path = ROI.plugin.ipop
 	url = https://github.com/r-forge/roi
 	subdir = pkg/ROI.plugin.ipop
-[submodule "ROI.plugin.msbinlp"]
-	path = ROI.plugin.msbinlp
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.msbinlp
-[submodule "ROI.plugin.neos"]
-	path = ROI.plugin.neos
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.neos
-[submodule "ROI.plugin.nloptr"]
-	path = ROI.plugin.nloptr
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.nloptr
-[submodule "ROI.plugin.optimx"]
-	path = ROI.plugin.optimx
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.optimx
-[submodule "ROI.plugin.osqp"]
-	path = ROI.plugin.osqp
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.osqp
-[submodule "ROI.plugin.qpoases"]
-	path = ROI.plugin.qpoases
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.qpoases
 [submodule "ROI.plugin.quadprog"]
 	path = ROI.plugin.quadprog
 	url = https://github.com/r-forge/roi
 	subdir = pkg/ROI.plugin.quadprog
-[submodule "ROI.plugin.scs"]
-	path = ROI.plugin.scs
-	url = https://github.com/r-forge/roi
-	subdir = pkg/ROI.plugin.scs
 [submodule "ROI.plugin.symphony"]
 	path = ROI.plugin.symphony
 	url = https://github.com/r-forge/roi
@@ -282,10 +238,6 @@
 	path = cobs
 	url = https://github.com/r-forge/curves-etc
 	subdir = pkg/cobs
-[submodule "coin"]
-	path = coin
-	url = https://github.com/r-forge/coin
-	subdir = pkg/coin
 [submodule "colorspace"]
 	path = colorspace
 	url = https://github.com/r-forge/colorspace
@@ -426,10 +378,6 @@
 	path = minqa
 	url = https://github.com/r-forge/optimizer
 	subdir = pkg/minqa
-[submodule "mlt"]
-	path = mlt
-	url = https://github.com/r-forge/ctm
-	subdir = pkg/mlt
 [submodule "mlt.docreg"]
 	path = mlt.docreg
 	url = https://github.com/r-forge/ctm
@@ -441,10 +389,6 @@
 [submodule "mpmi"]
 	path = mpmi
 	url = https://github.com/r-forge/mpmi
-	subdir = pkg
-[submodule "multcomp"]
-	path = multcomp
-	url = https://github.com/r-forge/multcomp
 	subdir = pkg
 [submodule "multiColl"]
 	path = multiColl
@@ -470,14 +414,6 @@
 	path = oompaData
 	url = https://github.com/r-forge/oompa
 	subdir = pkg/oompaData
-[submodule "party"]
-	path = party
-	url = https://github.com/r-forge/party
-	subdir = pkg
-[submodule "partykit"]
-	path = partykit
-	url = https://github.com/r-forge/partykit
-	subdir = pkg/partykit
 [submodule "pcalg"]
 	path = pcalg
 	url = https://github.com/r-forge/pcalg
@@ -518,10 +454,6 @@
 	path = sampleSelection
 	url = https://github.com/r-forge/sampleselection
 	subdir = pkg/sampleSelection
-[submodule "sandwich"]
-	path = sandwich
-	url = https://github.com/r-forge/sandwich
-	subdir = pkg
 [submodule "setRNG"]
 	path = setRNG
 	url = https://github.com/r-forge/distr
@@ -570,10 +502,6 @@
 	path = tm
 	url = https://github.com/r-forge/tm
 	subdir = pkg
-[submodule "tram"]
-	path = tram
-	url = https://github.com/r-forge/ctm
-	subdir = pkg/tram
 [submodule "tramME"]
 	path = tramME
 	url = https://github.com/r-forge/ctm
@@ -618,7 +546,3 @@
 	path = zipfR
 	url = https://github.com/r-forge/zipfr
 	subdir = pkg/zipfR
-[submodule "zoo"]
-	path = zoo
-	url = https://github.com/r-forge/zoo
-	subdir = pkg/zoo
