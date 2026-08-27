@@ -266,10 +266,6 @@
 	path = cotram
 	url = https://github.com/r-forge/ctm
 	subdir = pkg/cotram
-[submodule "crch"]
-	path = crch
-	url = https://github.com/r-forge/topmodels
-	subdir = pkg/crch
 [submodule "distr"]
 	path = distr
 	url = https://github.com/r-forge/distr
