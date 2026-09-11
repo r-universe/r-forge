@@ -330,6 +330,10 @@
 	path = genoPlotR
 	url = https://github.com/r-forge/genoplotr
 	subdir = pkg
+[submodule "geostatsp"]
+	path = geostatsp
+	url = https://github.com/r-forge/diseasemapping
+	subdir = pkg/geostatsp
 [submodule "glmertree"]
 	path = glmertree
 	url = https://github.com/r-forge/partykit
