@@ -398,6 +398,10 @@
 	path = mutossGUI
 	url = https://github.com/r-forge/mutoss
 	subdir = pkg/mutossGUI
+[submodule "mvProbit"]
+	path = mvProbit
+	url = https://github.com/r-forge/sampleselection
+	subdir = pkg/mvProbit
 [submodule "nor1mix"]
 	path = nor1mix
 	url = https://github.com/r-forge/curves-etc
