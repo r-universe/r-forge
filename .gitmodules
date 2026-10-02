@@ -378,10 +378,6 @@
 	path = minqa
 	url = https://github.com/r-forge/optimizer
 	subdir = pkg/minqa
-[submodule "mlt.docreg"]
-	path = mlt.docreg
-	url = https://github.com/r-forge/ctm
-	subdir = pkg/mlt.docreg
 [submodule "mpm"]
 	path = mpm
 	url = https://github.com/r-forge/mpm
