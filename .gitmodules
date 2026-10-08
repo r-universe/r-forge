@@ -238,10 +238,6 @@
 	path = cobs
 	url = https://github.com/r-forge/curves-etc
 	subdir = pkg/cobs
-[submodule "colorspace"]
-	path = colorspace
-	url = https://github.com/r-forge/colorspace
-	subdir = pkg/colorspace
 [submodule "cops"]
 	path = cops
 	url = https://github.com/r-forge/stops
