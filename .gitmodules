@@ -218,10 +218,6 @@
 	path = aspect
 	url = https://github.com/r-forge/psychor
 	subdir = pkg/aspect
-[submodule "basefun"]
-	path = basefun
-	url = https://github.com/r-forge/ctm
-	subdir = pkg/basefun
 [submodule "carData"]
 	path = carData
 	url = https://github.com/r-forge/car
