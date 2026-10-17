@@ -498,10 +498,6 @@
 	path = tramME
 	url = https://github.com/r-forge/ctm
 	subdir = pkg/tramME
-[submodule "tramnet"]
-	path = tramnet
-	url = https://github.com/r-forge/ctm
-	subdir = pkg/tramnet
 [submodule "tramvs"]
 	path = tramvs
 	url = https://github.com/r-forge/ctm
