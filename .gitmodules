@@ -502,10 +502,6 @@
 	path = trtf
 	url = https://github.com/r-forge/ctm
 	subdir = pkg/trtf
-[submodule "truncreg"]
-	path = truncreg
-	url = https://github.com/r-forge/truncreg
-	subdir = pkg
 [submodule "tscount"]
 	path = tscount
 	url = https://github.com/r-forge/tscount
